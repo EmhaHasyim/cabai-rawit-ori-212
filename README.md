@@ -1,11 +1,31 @@
 # 🌶️ MASTER PLAN BUDIDAYA CABAI RAWIT ORI 212
 ### 200 polybag · satu perlakuan seragam · dari semai (H-35) sampai panen pertama (HST 80-96)
 
-`Versi V3` · `200 polybag seragam` · `pupuk = siklus berulang` · `pemicu = ciri fisik tanaman` · teks polos: [`plan.txt`](plan.txt)
+`Versi V3` · `200 polybag seragam` · `pupuk = siklus berulang` · `pemicu = ciri fisik tanaman`
 
 > **Cara kerja plan ini:** pupuk diberikan sebagai **SIKLUS BERULANG**, dan perpindahan fase dipicu **CIRI FISIK tanaman** — bukan tanggal. **HST hanya dipakai untuk dua hal:** menandai kocor pertama tiap fase, dan jadi alarm kalau ciri tidak muncul.
 >
 > Kalau ciri tanaman dan tanggal bertentangan → **selalu ikut ciri tanaman.**
+
+---
+
+## Sumber Tunggal & Sinkronisasi
+
+| File | Peran | Boleh diedit? |
+|---|---|---|
+| [`README.md`](README.md) | **Sumber tunggal** — versi yang dirender GitHub | ✅ **Ya, di sini saja** |
+| [`plan.txt`](plan.txt) | Salinan teks polos untuk dicetak / dibagikan offline | ❌ **Tidak** — dibuat otomatis |
+| [`plan_v1_lama.txt`](plan_v1_lama.txt) | Arsip versi lama (masih perlakuan A/B) | ❌ Dibekukan |
+
+Setiap kali mengubah README.md, samakan plan.txt dengan satu perintah:
+
+```bash
+node tools/sync-plan.mjs                 # tulis ulang plan.txt
+node tools/sync-plan.mjs --check         # cek saja (exit 1 bila beda)
+node tools/sync-plan.mjs --install-hook  # pasang sekali: otomatis saat commit
+```
+
+Setelah hook terpasang, plan.txt **tidak bisa lagi tertinggal** — hook memperbarui dan meng-*stage*-nya sebelum setiap commit.
 
 ---
 
@@ -67,6 +87,9 @@
 **LAMPIRAN**
 - [L1. Daftar Belanja](#l1-daftar-belanja)
 - [L2. Catatan Verifikasi & Sumber](#l2-catatan-verifikasi--sumber)
+
+**Pengelolaan dokumen**
+- [Sumber Tunggal & Sinkronisasi](#sumber-tunggal--sinkronisasi)
 
 ---
 
