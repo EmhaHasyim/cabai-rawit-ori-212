@@ -37,7 +37,7 @@ Setelah hook terpasang, plan.txt **tidak bisa lagi tertinggal** — hook memperb
 **Tiga hal yang paling penting untuk diingat:**
 
 1. **Jangan patok kalender.** Kocor pertama tiap fase punya acuan HST, selebihnya ikut ciri fisik.
-2. **Kocor = siklus.** Jalankan nomor 1 → 2 → 3, lalu ulangi dari nomor 1, sampai ciri fase berikutnya muncul.
+2. **Kocor = siklus yang diulang.** Satu siklus = 2-3 kocor berurutan (ember ke-1 lalu ke-2, mis. 🟢 lalu 🔵). Habis satu putaran → **ulangi siklus yang sama persis, bukan kembali ke V1.** Yang naik hanya **fase** (V1 → V2 → V3), dan dosis **tidak pernah turun**.
 3. **Bilas garam tetap kalender.** Ini satu-satunya jadwal yang sengaja tidak ikut ciri.
 
 ### Legenda Ember
@@ -58,6 +58,8 @@ Setelah hook terpasang, plan.txt **tidak bisa lagi tertinggal** — hook memperb
 | ✅ | Aman / sudah sesuai |
 | ❌ | Dilarang keras |
 | ⭐ | Bagian yang paling sering dibuka |
+
+> **Penanda teks di dalam ember:** kalau tertulis **✅ hanya siklus pertama**, artinya bahan itu dipakai **sekali saja** pada siklus pertama fase tersebut — siklus kedua dan seterusnya tidak memakainya lagi.
 
 ### Daftar Isi
 
@@ -105,9 +107,15 @@ SEMAI (H-35) → TANAM (HST 0) → V1 → V2 → V3 → TRANSISI → G-1 → G-2
                                   └── vegetatif ──┘   └─ generatif ─┘
 ```
 
+Setiap fase **diulang-ulang** sampai ciri fase berikutnya muncul — bukan naik lalu balik turun:
+
+```
+V1 ↺ V1 ↺ V1  →  V2 ↺ V2  →  V3 ↺ V3 ↺ V3  →  TRANSISI ↺ ↺  →  G-1 ↺  →  G-2 ↺ ↺  →  PANEN
+```
+
 ### Isi satu siklus per fase
 
-| Fase | Siklus (jalankan lalu ulangi) | Volume kocor |
+| Fase | Isi siklus — **ulangi terus di fase ini** | Volume kocor |
 |---|---|---|
 | **V1** Adaptasi | 🟡 PH → 🟢 NPK-1 → 🔵 Ca | 200 ml |
 | **V2** Vegetatif awal | 🟢 NPK-2 → 🔵 Ca | 250 ml |
@@ -115,6 +123,8 @@ SEMAI (H-35) → TANAM (HST 0) → V1 → V2 → V3 → TRANSISI → G-1 → G-2
 | **Transisi** | 🟡 MKP → 🔴 KNO3 + Karate | 300 ml |
 | **G-1** Buah set | 🔵 Ca → 🔴 KNO3 + Karate → 🟡 MKP | 300 ml |
 | **G-2** Buah mengisi | 🟡 MKP + Mg → 🔴 KNO3 + Karate | 300 ml |
+
+> ⚠️ **Selesai satu putaran → ulangi fase yang sama, bukan kembali ke V1.** Contoh: selesai V3 → **V3 lagi dengan dosis yang sama** → V3 lagi … sampai kuncup bunga muncul, baru naik ke Transisi. Dosis hanya naik antar-fase, tidak pernah turun.
 
 ### Aturan cepat
 
@@ -294,31 +304,65 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 ## 7. Template Siklus Pupuk
 
-> **Cara pakai:** jalankan nomor 1 → 2 → 3, lalu **ulangi dari nomor 1**. Keluar dari siklus hanya bila ciri fase berikutnya muncul ([Bagian 3](#3--peta-ciri--aksi-inti-dokumen)).
+> **Cara pakai:** satu siklus = urutan **ember** di tabel fase itu (ember 1 → ember 2 → ember 3). Setelah urutan habis → **ulangi siklus yang SAMA dari ember pertama**, sampai ciri fase berikutnya muncul ([Bagian 3](#3--peta-ciri--aksi-inti-dokumen)).
+>
+> ⚠️ **Yang diulang adalah siklusnya — bukan kembali ke V1.** Selesai V3 → **V3 lagi (dosis sama)** → V3 lagi … sampai kuncup bunga muncul, baru naik ke TRANSISI. Dosis **naik antar-fase dan tidak pernah turun.**
+>
 > Semua dosis di bawah sudah dihitung untuk **200 polybag**.
+
+**Tangga dosis — naik terus, tidak pernah turun:**
+
+| Fase | Volume/polybag | YaraMila | CN-G | KNO3 | MKP | Karate |
+|---|---|---|---|---|---|---|
+| **V1** | 200 ml | 40 g | 32 g | — | — | — |
+| **V2** | 250 ml | 90 g | 40 g | — | — | — |
+| **V3** | 300 ml | 132 g | 48 g | 90 g | — | — |
+| **Transisi** | 300 ml | — *(N distop)* | — | 180 g | 240 g | 120 g |
+| **G-1** | 300 ml | — | 48 g | 240 g | 240 g | 120 g |
+| **G-2** | 300 ml | — | — | 240 g | 240 g | 120 g |
+
+*(angka = gram per 200 polybag, satu siklus penuh)*
+
+**Bahan yang dipakai sekali saja — bukan rutin tiap siklus:**
+
+| Bahan | Kapan dipakai | Dosis per 200 polybag |
+|---|---|---|
+| **Meroke Vitaflex** | Siklus **V1 pertama** | **5 g** — masuk ke ember 🟢 |
+| **Meroke Vitaflex** | Siklus **V2 pertama** | **6,25 g** — masuk ke ember 🟢 |
+
+> Total Vitaflex terpakai seumur tanam = **11,25 g** dari 100 g yang dibeli. Sesudah dua kali itu **Vitaflex tidak dipakai lagi** — bukan karena habis, tapi karena tidak diperlukan.
+
+> **YaraMila berhenti di Transisi bukan berarti pupuk berkurang.** Itu sengaja: N tinggi = bunga rontok. Yang menggantikannya **KNO3, Karate, dan MKP** — jadi total hara justru makin besar, dan kalium makin naik saat buah mengisi.
+
+**Kalau ciri belum muncul, yang diulang apa:**
+
+| Fase yang sedang jalan | Ciri yang ditunggu | Bila ciri belum muncul |
+|---|---|---|
+| V1 | tumbuh aktif | **Ulangi V1** (dosis tetap) → cek akar & akumulasi garam |
+| V2 | percabangan pertama | **Ulangi V2** (dosis tetap) → cek N & cahaya |
+| V3 | kuncup bunga | **Ulangi V3** (dosis tetap) → **jangan** tambah YaraMila |
+| Transisi | buah set ≥30-50% | **Ulangi Transisi** (dosis tetap) |
+
+> **Kalau V3 sudah 4× berulang (sekitar HST 48) dan kuncup belum muncul:** jangan naikkan YaraMila — kelebihan N justru **menahan** pembungaan. Naikkan **KNO3 jadi 120 g** (tambah kalium saja, +30 g) per 200 polybag, lalu periksa tiga hal: cahaya (minimal 6 jam penuh), media terlalu basah, dan akumulasi garam.
 
 ### 7.1 SIKLUS V1 — Adaptasi
 
 *Volume 200 ml/polybag → **40 L**. Ulangi sampai muncul ciri V2.*
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
-| 1 | 🟡 Humate | PH (Potassium Humate) **40 g** |
-| 2 | 🟢 NPK-1 | YaraMila **40 g** + PH **40 g** + Vitaflex **5 g**\* |
-| 3 | 🔵 Kalsium | CN-G **32 g** |
-
-\* Vitaflex hanya di siklus pertama.
+| 1 | 🟡 Humate | Potassium Humate (PH) **40 g** — larutkan sendirian |
+| 2 | 🟢 NPK-1 | YaraMila **40 g** + PH **40 g** + Vitaflex **5 g** ✅ *hanya siklus pertama* |
+| 3 | 🔵 Kalsium | CN-G **32 g** — ember bersih khusus Ca |
 
 ### 7.2 SIKLUS V2 — Vegetatif awal
 
 *Volume 250 ml/polybag → **50 L**. Ulangi sampai muncul ciri V3.*
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
-| 1 | 🟢 NPK-2 | YaraMila **90 g** + PH **50 g** + MgSO4 **50 g** |
+| 1 | 🟢 NPK-2 | YaraMila **90 g** + PH **50 g** + MgSO4 **50 g** + Vitaflex **6,25 g** ✅ *hanya siklus pertama* |
 | 2 | 🔵 Kalsium | CN-G **40 g** |
-
-\* Vitaflex **6,25 g** ditambahkan ke ember 🟢 pada **siklus V2 pertama saja**.
 
 ### 7.3 SIKLUS V3 — Vegetatif lanjutan
 
@@ -326,7 +370,7 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 > ⚠️ **STOP N:** begitu **kuncup bunga pertama** terlihat, **langsung pindah ke SIKLUS TRANSISI** — jangan selesaikan siklus V3 dulu.
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
 | 1 | 🟢 NPK-3 | YaraMila **132 g** + PH **60 g** + KNO3 **90 g** + MgSO4 **60 g** |
 | 2 | 🔵 Kalsium | CN-G **48 g** |
@@ -335,7 +379,7 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 *Volume 300 ml/polybag → **60 L**. Ulangi sampai **≥30-50% bunga jadi buah set**.*
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
 | 1 | 🟡 MKP | MKP **240 g** |
 | 2 | 🔴 KNO3 + Karate | KNO3 **180 g** + Karate Plus Boroni **120 g** |
@@ -346,7 +390,7 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 *Volume 300 ml/polybag → **60 L**. Ulangi sampai ciri G-2 muncul.*
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
 | 1 | 🔵 Kalsium | CN-G **48 g** |
 | 2 | 🔴 KNO3 + Karate | KNO3 **240 g** + Karate Plus Boroni **120 g** |
@@ -360,7 +404,7 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 **Bedanya dari G-1:** kocor Ca terpisah dihapus (Ca tetap datang dari Karate), dan **MgSO4 masuk ke ember MKP** — fokus bergeser dari Ca ke K + Mg untuk pengisian buah.
 
-| # | Ember | Bahan per 200 polybag |
+| Kocor ke- | Ember | Isi ember — untuk 200 polybag |
 |---|---|---|
 | 1 | 🟡 MKP + Mg | MKP **240 g** + MgSO4 **60 g** |
 | 2 | 🔴 KNO3 + Karate | KNO3 **240 g** + Karate Plus Boroni **120 g** |
@@ -381,7 +425,7 @@ Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
 
 | Ember | Urutan pencampuran | Catatan |
 |---|---|---|
-| 🟢 **Ember 1 (NPK)** | air → YaraMila → Vitaflex (bila ada) → MgSO4 (bila ada) → KNO3 (khusus V3) → **PH** | ⚠️ PH dilarutkan **terpisah** di 1-2 L air, baru dituang sambil diaduk |
+| 🟢 **Ember 1 (NPK)** | air → YaraMila → Vitaflex (**hanya siklus pertama V1 & V2**) → MgSO4 (**mulai V2**) → KNO3 (**hanya V3**) → **PH** | ⚠️ PH dilarutkan **terpisah** di 1-2 L air, baru dituang sambil diaduk |
 | 🔵 **Ember 2 (Ca)** | air bersih → CN-G → aduk | ❌ Ember bersih, **tidak pernah dicampur PH** |
 | 🟡 **Ember MKP** | air → MKP (+ MgSO4 khusus G-2) → aduk | ❌ Jangan dicampur Ca |
 | 🔴 **Ember KNO3 + Karate** | air → KNO3 → Karate → aduk | ✅ Aman |
@@ -583,9 +627,7 @@ Saat kanopi sudah rapat/menutup (±HST 75 dataran rendah), daun tua **di bawah c
 | MKP | — | — | — | 240 | 240 | 240 |
 | KNO3 Putih | — | — | 90 | 180 | 240 | 240 |
 | Karate Plus Boroni | — | — | — | 120 | 120 | 120 |
-| Meroke Vitaflex | 5\* | 6,25\* | — | — | — | — |
-
-\* Hanya di **siklus pertama** V1 dan V2.
+| Meroke Vitaflex *(hanya siklus pertama)* | 5 | 6,25 | — | — | — | — |
 
 ### 12.2 Sisa stok pada skenario khas
 
@@ -602,11 +644,13 @@ Saat kanopi sudah rapat/menutup (±HST 75 dataran rendah), daun tua **di bawah c
 
 **Kapasitas stok:** MKP 2 kg = ±8 kocor · KNO3 2 kg = ±8 kocor generatif · Karate 1 kg = ±8 kocor (skenario memakai 6). Masih ada ruang **±2 siklus tambahan** bila ciri tanaman lebih lambat — kecuali **MgSO4** yang tipis. Naikkan jadi 1 kg bila memungkinkan.
 
+> **Catatan pengulangan:** tabel di atas mengasumsikan **V1 hanya 1×**. Bila V1 memang harus diulang 2-3× (karena aturannya "ulangi sampai tumbuh aktif"), tambahan tiap siklusnya cuma **40 g YaraMila + 40 g PH + 32 g CN-G** — masih tercakup buffer.
+
 ### 12.3 Neraca hara per tanaman (skenario khas, s.d. panen pertama)
 
 *Kandungan terverifikasi:* YaraMila 25-7-7 · CN-G & Karate (N 15,5%, Ca 18-19%, Karate B 0,3%) · KNO3 (N 13%, K2O 46%) · MKP (P2O5 52%, K2O 34%) · SP-36 (P2O5 36%) · Dolomit (CaO ±30%, MgO ±20%) · Humate (asam humat 65-75%, K2O hanya 8-12%).
 
-| Unsur | Masuk ke tiap tanaman | Target pro-rata\* | Status |
+| Unsur | Masuk ke tiap tanaman | Target pro-rata | Status |
 |---|---|---|---|
 | N | ±2,34 g (YaraMila 0,65 + CN-G 0,20 + Karate 0,56 + KNO3 0,94) | ±3,7 g | ±63% — buffer sehat; N kembali setelah panen ke-2 |
 | P2O5 | ±7,5 g (SP-36 dasar 3,6 + MKP 3,7 + YaraMila 0,2) | ±1,4 g | ✅ Lebih — P tidak tercuci & dosis dasar itu standar |
@@ -615,7 +659,7 @@ Saat kanopi sudah rapat/menutup (±HST 75 dataran rendah), daun tua **di bawah c
 | Mg | ±2,0 g MgO dolomit + ±0,17 g Mg kocor | — | ✅ Cukup; pantau daun tua |
 | B | ±10,8 mg (Karate 720 g × 0,3%) | — | ✅ Aman asal bilas disiplin |
 
-\* Target pro-rata: rekomendasi fertigasi cabai musim penuh **230 N - 90 P2O5 - 400 K2O kg/ha** (±9,2 / 3,6 / 16 g per tanaman pada 25.000 populasi). Plan ini mencakup s.d. panen pertama ≈ **40% musim** → target 3,7 / 1,4 / 6,4 g.
+> **Cara angka "Target pro-rata" didapat:** rekomendasi fertigasi cabai musim penuh **230 N - 90 P2O5 - 400 K2O kg/ha** (±9,2 / 3,6 / 16 g per tanaman pada 25.000 populasi). Plan ini mencakup s.d. panen pertama ≈ **40% musim** → target 3,7 / 1,4 / 6,4 g.
 
 ### 12.4 Verifikasi media tanam
 
