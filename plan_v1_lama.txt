@@ -1,0 +1,461 @@
+# 📋 MASTER PLAN BUDIDAYA CABAI RAWIT ORI 212
+**H-35 hingga Panen Pertama (HST 80-96) | 200 Polybag (100 A + 100 B)**
+
+> **Spesifikasi varietas (deskripsi varietas resmi + breeder Aura Seed):** Ori 212 — tinggi dewasa **150-165 cm**, **mulai berbunga 38-50 HST**, panen masak penuh **91-96 HST**, buah **bulat pipih pangkal meruncing (tipe rawit putih), 3,2-3,6 cm, sangat pedas**, potensi ± 750 buah/tanaman (23,5-28,8 ton/ha di lahan; di polybag wajar lebih rendah), daya berkecambah 94%, adaptif 0-700 mdpl. Konsekuensi: ajir ≥ 1,8 m wajib; **fase transisi dinilai dari bunga nyata sejak HST 38**, bukan menunggu HST 50; target panen tidak boleh dipatok HST 75.
+
+### ⚡ PRINSIP EKSEKUSI DUA LAPIS (berlaku di seluruh dokumen)
+
+> **HST = estimasi untuk persiapan bahan & tenaga. KEPUTUSAN ikut ciri tanaman.** Fisiologi cabai mengikuti akumulasi cahaya & suhu, bukan tanggal — dua musim tanam dengan jadwal sama bisa geser ±7-10 hari. Buktinya di dokumen ini sendiri: breeder menyebut berbunga 38-50 HST (rentang 12 hari!). Bila ciri dan HST bertentangan → **ikuti ciri**. Sebaliknya, ciri yang seharusnya sudah muncul tapi tidak muncul = **ALARM ada masalah** (lihat Bagian VIII).
+
+| Keputusan | PEMICU (ciri tanaman) | HST acuan | Alarm bila ciri tak muncul |
+|---|---|---|---|
+| Pindah wadah bibit | 2 daun sejati | ± H-25 | — |
+| Pindah tanam (HST 0) | 4-5 daun sejati, batang tegak | ± H-3 s.d. H+2 | Bibit >35 hari masih kecil → cek media/air semai |
+| Fase 1 → Fase 2 | Tunas baru lanjut tumbuh, layu pasca-tanam hilang (tanaman "menempel") | HST 10-19 | HST 15 masih stagnan → cek akar & garam |
+| Fase 2 → Fase 3 | Percabangan pertama terbentuk, tinggi ±20-25 cm | HST 19-31 | — |
+| **STOP N → mulai transisi** | **Kuncup bunga pertama terlihat** (tunas/bintik bunga kecil di ketiak daun) | HST 38-50 | HST 50 belum ada kuncup → JANGAN mulai MKP; cek N berlebih/naungan dulu |
+| Transisi → generatif penuh | ≥30-50% bunga sudah menjadi buah muda (buah set) | HST 55-65 | Bunga rontok semua → Troubleshooting |
+| Panen RAWIT PUTIH | Buah penuh ukuran (3,2-3,6 cm), kulit putih-krem mengkilap, kenyal | HST 80-88 | — |
+| Panen MERAH | ≥90% permukaan buah merah | HST 91-96 | — |
+| Bilas garam | **Tetap kalender** — akumulasi garam ditentukan input pupuk & air, bukan fisiologi | HST 21/35/48/69/78 | — |
+
+---
+
+## I. DAFTAR BELANJA FINAL
+
+### Bahan Media Tanam & Hayati
+| Bahan | Jumlah | Harga |
+|---|---|---|
+| Dolomit | 2 kg | Rp 10.000 |
+| SP-36 | 2 kg | Rp 8.000 |
+| GlioTrico-G | 300 g (3 × 100 g) | Rp 36.000 |
+| MycoGrow | 1 kg (tepat 5 g × 200 — tanpa sisa, takar hati-hati) | Rp 40.000 |
+| Ajir Bambu (tinggi 1,8-2 m, Ori 212 bisa > 1,5 m) | 200 batang | Rp 20.000-40.000 |
+| **Subtotal** | | **Rp 114.000-134.000** |
+
+### Pupuk Kocor (Vegetatif + Transisi)
+| Produk | Kemasan | Harga |
+|---|---|---|
+| YaraMila Faster 25-7-7 | 1 kg | Rp 26.000 |
+| CN-G (Calcium Nitrate) | 1 kg | Rp 24.000 |
+| Potassium Humate (asam humat 65-75%; K2O hanya 8-12%) | 1 kg | Rp 42.500 |
+| MgSO4 Cap Pak Tani | 500 g | Rp 10.000 |
+| MKP Pak Tani | 2 kg | Rp 80.000 |
+| KNO3 Putih PN Pak Tani | 2 kg | Rp 80.000 |
+| Karate Plus Boroni | 1 kg | Rp 20.000 |
+| Meroke Vitaflex | 1 × 100 g | Rp 28.500 |
+| **Subtotal Pupuk** | | **Rp 311.000** |
+
+**TOTAL INVESTASI SARANA HARA & MEDIA: Rp 425.000-445.000**
+
+> **Empat item wajib belum masuk daftar ini** (semuanya bagian dari penyiapan tanam):
+> - **Polybag 40×40 cm × 200 lembar** — dijual kiloan, 1 kg ≈ 32-37 lembar → butuh ± 6 kg → **Rp 180.000-240.000**
+> - **Topsoil 2.000 L + Sekam Mentah 850 L** — **beli borongan, jangan karungan.** Karungan 12 L ± Rp 20.000 berarti > Rp 3 juta. Borongan ± **Rp 300.000-900.000** tergantung daerah
+> - **Bibit ORI 212** — 200 tanaman, semai **260 butir** (daya berkecambah 94% → cadangan seleksi ±22%)
+> - **Tray/wadi semai + media semai ± 80 L** — dari topsoil yang sama (haluskan) + sekam bakar/humas 1:1; tanpa dolomit/SP-36
+>
+> Artinya biaya nyata didominasi **media**, bukan pupuk. Angka total di atas hanya untuk pupuk + bahan tambahan. *(Audit kedua: MKP & KNO3 ke 2 kg — generatif s.d. HST 94 memakai 720 g MKP (+240 opsional HST 94) dan 720 g KNO3, kemasan 1 kg tidak cukup; CN-G ke 1 kg karena kemasan 500 g hanya menyisakan 52 g — terlalu tipis untuk takaran/tumpahan.)*
+
+---
+
+## II. PERSIAPAN MEDIA (H-35 s.d. HST 0)
+
+### Timeline Persemaian (pra H-10 — tanpa ini HST 0 meleset sebulan)
+
+> Bibit siap tanam butuh ± 30-35 hari dari semai. Maka persemaian **harus sudah dimulai di H-35**, jauh sebelum persiapan media di H-10.
+>
+> **Media semai:** topsoil halus + sekam bakar/humas 1:1 — **tanpa dolomit & SP-36** (campuran itu untuk polybag; untuk semaian terlalu "panas"). Total butuh ± 80 L untuk 260 bibit.
+
+| Waktu | Kegiatan |
+|---|---|
+| H-35 | Semai **260 benih** ORI 212 (daya berkecambah breeder 94% → ±244 kecambah → margin ±22% untuk seleksi & gagal tumbuh; 240 hanya bila persemaian terkontrol baik), kedalaman 0,5-1 cm, naungan 50% |
+| H-28 | **Fertigasi 1:** YaraMila 0,5 g/L, 30-50 ml/bibit (setelah 1-2 daun sejati) |
+| H-21 | **Fertigasi 2:** YaraMila 1 g/L, 50 ml/bibit — atau 5-7 hari setelah pindah wadah, mana yang lebih akhir |
+| H-14 | **Fertigasi 3 (TERAKHIR):** YaraMila 1 g/L, 50 ml/bibit — setelah ini STOP pupuk |
+| H-35 s.d. H-12 | Jaga lembap (semprot halus 1-2× sehari); pindah ke wadah lebih besar saat 2 daun sejati |
+| H-12 s.d. H-8 | Hardening: buka naungan bertahap, kurangi air, **tanpa pupuk** |
+| HST 0 | Pindah tanam; seleksi bibit seragam: 4-5 daun sejati, ± 20-25 cm, batang tegak, bebas kusam/layu |
+
+Bibit yang tidak lolos seleksi dibuang — jangan dipaksakan tanam.
+
+### Geometri Polybag 40×40 cm (acuan)
+
+| Kondisi | Diameter dalam | Tinggi |
+|---|---|---|
+| Duduk (terisi tanah) | **26 cm** | 28 cm |
+| Lipat (bim dibuka) | 20 cm | 40 cm |
+
+Target isi **25 cm** dari tinggi 28 cm → kapasitas **13,3 L/polybag**.
+
+### Susunan Polybag (penting untuk varietas tinggi)
+
+- **Jarak pusat-tanam minimal 40-50 cm** — kanopi Ori 212 dewasa lebar 50-60 cm; polybag menempel (pusat hanya 26 cm) = daun bertumpuk, cahaya tertutup, kelembapan tinggi → flower drop & penyakit daun. Polybag 26 cm itu alas, tanamannya bukan 26 cm.
+- Contoh grid 200 polybag: **10 polybag/deret × 20 deret**, jarak dalam deret 45 cm (panjang ± 4,5 m), antar deret 55-60 cm (lebar ± 11-12 m) → butuh lahan **± 50-70 m²** + lorong kerja.
+- Susun **deretan tegak lurus arah angin kencang** — tanaman 150-165 cm + ajir 1,8 m punya wind-large; deretan rapat searah angin = efek layu bergilir.
+- **Pembuangan air:** letakkan polybag di permukaan berporos (tanah pasir, kerikil, atau diganjal papan reng) — jangan di plastik/tarpaulin rata yang menggenang; akar terendam 1 hari = Phytophthora menunggu.
+- Media tetap **tanah + sekam mentah saja** di semua polybag — tidak ada substitusi kompos/peat di tengah musim (mengubah struktur air & dosis yang sudah dihitung).
+
+### H-10: Pencampuran & Pengisian
+
+> **Total media dinaikkan dari 2.600 L menjadi 2.850 L.** Alasannya: 13,3 L/polybag adalah volume *padat*. Campuran topsoil + sekam mentah menyusut ± 7% setelah disiram jenuh, jadi butuh ± 14,25 L lepas/polybag. Kalau tetap 2.600 L, isi hanya sampai ± 24,5 cm — kurang dan tidak bisa ditambah belakangan.
+
+- [ ] Siapkan 200 polybag **40×40 cm** (± 6 kg bila beli kiloan)
+- [ ] Campur Topsoil (2.000 L) + Sekam Mentah (850 L)
+- [ ] Tambahkan 2 kg Dolomit, aduk rata
+- [ ] **Campur 200 g GlioTrico-G ke seluruh tumpukan** — jurnal 2025: inokulasi pra-tanam paling efektif menekan layu Fusarium; ini memberi ±10 hari kolonisasi sebelum tanam dengan dosis ±1 g/polybag (standar pembibitan 8-10 g/L larutan)
+- [ ] **Cek pH campuran** (pH meter / kertas lakmus murah): target **6,0–6,8** (jurnal: pH optimum cabai 6,0–7,0). Di bawah 5,5 → tambah dolomit bertahap; di atas 7,0 → jangan tambah dolomit
+- [ ] Bagi 2: Bawah **68%** (1.940 L), Atas **32%** (910 L)
+- [ ] Campur 2 kg SP-36 **hanya** ke Tumpukan Bawah
+- [ ] Isi polybag: Bawah **17 cm** (padat) → atas sampai total **25 cm** (rata)
+- [ ] Siram jenuh hingga air mengalir dari bawah
+
+> **Cara mengisi:** pakai tongkat yang ditandai 17 cm dan 25 cm. Yang **dipatuhi adalah tinggi (17 cm lalu 25 cm)**, bukan jumlah liter. Pembagian 68%/32% hanya perkiraan perencanaan agar bahannya pas — jangan sampai media habis di polybag terakhir.
+>
+> **Basis dolomit (jurnal):** 2 kg ÷ 200 = **10 g/polybag** (± 0,8 g/L media) — cukup untuk menaikkan pH ± 0,5–1 poin pada tanah asam ringan. Rentang dosis efektif dari jurnal: 2,6 g/polybag (media kecil, pH sudah 6,5) sampai 40 g/polybag (media sangat asam). Artinya dosis buta bisa meleset dua arah — karena itu cek pH di atas **wajib**, bukan opsional.
+
+### H-9 s.d. H-4: Inkubasi
+- [ ] Biarkan terbuka, ciprati air jika kering saja
+
+### H-3: Inokulasi & Mulsa
+- [ ] **Pagi (booster):** Larutkan 100 g GlioTrico-G + 60 g Gula dalam 50 L air → kocor 250 ml/polybag. *(Dosis awal 200 g sudah masuk tumpukan H-10 — ini penguatan persis sebelum tanam; melarut 2 g/L ≈ standar nursery 8-10 g/L versi encer untuk pot besar)*
+- [ ] ⚠️ Jangan pakai fungisida kimia dari H-10 (saat GlioTrico masuk tumpukan) sampai ± HST 7 — membunuh GlioTrico/Trichoderma yang baru diinokulasi (berlaku juga untuk MycoGrow di HST 0)
+- [ ] **Sore:** Tabur mulsa sekam 1-2 cm (tengah polybag bersih)
+
+### H-2 s.d. H-1: Kolonisasi
+- [ ] Cek kelembapan, jangan siram jika lembap
+
+### HST 0: Pindah Tanam (Sore 15.30-17.30)
+- [ ] Lubang 5-6 cm di tengah polybag
+- [ ] Masukkan 5 g MycoGrow di dasar lubang
+- [ ] Tanam bibit, pasang ajir 5-7 cm dari batang
+- [ ] Ikat pola angka 8 (longgar)
+- [ ] Siram 250 ml air di lubang tanam
+
+---
+
+## III. AIR & PENYIRAMAN (H-10 s.d. HST 94)
+
+> **Kocor hara BUKAN penyiraman.** Volume kocor (200/250/300 ml) itu larutan pupuk. Air biasa tetap diberikan terpisah sesuai tabel ini.
+
+### Kebutuhan air per polybag per hari
+Polybag 40×40 cm (diameter isi 26 cm, media ± 13 L), 1 tanaman.
+
+| Umur | Air biasa | Catatan |
+|---|---|---|
+| H-10 s.d. HST 0 | 300-500 ml, hanya bila permukaan mulai kering | H-10 disiram jenuh, setelah itu cukup dijaga lembap agar GlioTrico-G bekerja |
+| HST 1-10 | 100-200 ml | Akar belum memenuhi polybag |
+| HST 10-20 | 200-300 ml | |
+| HST 20-40 | 300-600 ml | Bagi 2× (pagi + sore) saat terik |
+| HST 40-61 | 500-800 ml | Kebutuhan naik menjelang generatif |
+| HST 61-94 | 800-1.000 ml | Fase buah — jaga konsisten, jangan bolong |
+
+### Aturan pelaksanaan
+1. **Di hari kocor:** kurangi air biasa sebesar volume kocor hari itu, bukan menambah di atasnya. Contoh HST 25: kebutuhan 400 ml → kocor 250 ml + air biasa 150 ml (bukan 650 ml total).
+2. **Siram melingkar 5-10 cm dari batang**, jangan kena batang utama.
+3. **Tes sebelum siram:** tusuk media 3-5 cm pakai lidi. Masih basah → tunda. Kering → siram.
+4. **Media wajib lembap sebelum kocor.** Kalau kering, siram air biasa 30-60 menit lebih dulu supaya akar tidak terbakar garam.
+5. **Bilas garam — jadwal tetap, bukan reaksi darurat:** 1-2 L air biasa per polybag setiap 2 minggu, air harus mengalir keluar dari lubang bawah. Jangan dilakukan di hari kocor. Ini yang mencegah "ujung daun gosong" sebelum terjadi. **Tanggal konkret: HST 21, HST 35, HST 48** (semua di luar hari kocor; geser +1 hari bila hujan). HST 48 menggantikan HST 50: MKP dikocor HST 49 (A & B), jadi bilas sehari setelahnya justru melunturkan fosfat yang baru diberikan. Bilas di HST 48 justru ideal — media bersih & lembap tepat sebelum MKP. **Bilas memang satu-satunya yang tetap ikut kalender** — akumulasi garam ditentukan oleh input pupuk & air, bukan oleh fisiologi tanaman.
+6. **Waktu:** pagi 06.30-09.00 atau sore 15.30-17.00. Jangan kocor/siram 11.00-15.00.
+7. **Air PDAM berkaporit:** tampung 24 jam di tandon terbuka sebelum dipakai — trik ini valid untuk klorin bebas (kaporit), yang memang menguap sendiri dalam ±24 jam. Kloramin (bila PDAM memakainya) **tidak menguap dengan ditampung** — solusinya deklorinator akuarium (natrium tiosulfat) atau filter karbon aktif. Klorin maupun kloramin sama-sama membunuh GlioTrico-G & MycoGrow.
+8. **Musim hujan:** kurangi air biasa, tapi **jangan hentikan** kocor hara.
+
+### Indikator air sudah benar
+- Daun tegak di pagi hari, tidak menggulung ke bawah
+- Media terasa lembap di kedalaman 3-5 cm
+- Air tidak menggenang di permukaan lebih dari 5 menit
+- Tidak ada kerak putih di permukaan media — kalau ada, garam menumpuk, segera bilas
+
+### Cek kualitas air sumber (1× di awal, sebelum H-10)
+- **pH air:** kertas lakmus / pH pen. Rentang aman **5,5-7,5**. Di luar rentang → perketat monitoring pH media
+- **TDS/EC:** TDS meter (± Rp 50-100 ribu). Ideal **< 700 ppm**; 700-1.500 ppm masih bisa asal bilas garam lebih disiplin; > 1.500 ppm → cari sumber air lain
+- **Boron:** hanya perlu uji lab bila air dari sumur dekat pantai/industri. **< 0,7 mg/L aman; 0,7-1,5 → STOP Karate Plus Boroni, cukup CN-G; > 1,5 → ganti sumber air.** Air PDAM aman soal boron
+- **Kerak kapur tebal di tandon/ember** = alkalinitas tinggi → bilas garam lebih sering + cek pH media tiap bulan
+
+---
+
+## IV. FASE VEGETATIF (HST 1-46)
+
+### Aturan Dasar
+- Interval: Setiap 3 hari
+- Waktu: Pagi (06.30-09.00) atau Sore (15.30-17.00)
+- Sistem: 2 ember terpisah (🟢 Ember 1 = NPK Mix, 🔵 Ember 2 = CN-G)
+
+### Dosis per Liter Air
+| Produk | Fase 1 | Fase 2 | Fase 3 |
+|---|---|---|---|
+| YaraMila Faster | 1,0 g | 1,8 g | 2,2 g |
+| Potassium Humate | 1,0 g | 1,0 g | 1,0 g |
+| Meroke Vitaflex | 0,125 g | 0,125 g | — |
+| MgSO4 | — | 1,0 g (tiap kocor 🟢 mulai HST 19) | 1,0 g (tiap kocor 🟢) |
+| KNO3 Putih | — | — | 1,5 g (tiap kocor 🟢) |
+| CN-G | 0,8 g | 0,8 g | 0,8 g |
+
+> **Kenapa dosis dinaikkan (kurasi jurnal):** neraca hara versi lama hanya masuk ± 1,1 g N dan ± 2,3 g K2O per tanaman sampai HST 61 — sekitar 30-40% kebutuhan cabai pot (acuan lahan: 10 g urea + 15 g SP-36 + 15 g KCl per tanaman, Sopian 2017; acuan polybag: NPK 16-16-16 5 g/tanaman tiap 7-10 hari, Distan Buleleng). Kadar baru: Fase 2-3 = 450-550 ppm N; Fase 3 dengan KNO3 1,5 g/L total bahan ber-N ≈ 750 ppm per 300 ml kocor — itu *pulse* (beban per kejadian ± 0,22 g N/tanaman) yang aman di media pot 13 L, bukan sistem resirkulasi. KNO3 dinaikkan ke 1,5 g/L karena pro-rata kebutuhan K s.d. panen pertama (±5,6-7,2 g K2O/tanaman, dari acuan fertigasi 400 kg K2O/ha musim penuh) menuntut lebih dari 1 g/L. MgSO4 jadi rutin tiap kocor hijau karena dosis tunggal HST 31 (= 0,375 g/tanaman) jelas di bawah kebutuhan Mg musim tanam.
+
+### Jadwal Kocor
+
+#### FASE 1: Adaptasi (200 ml/polybag)
+| HST | Ember | Bahan per 100 Polybag |
+|---|---|---|
+| 10 | 🟡 Humate | PH 20 g |
+| 13 | 🟢 NPK Mix | YaraMila 20 g + PH 20 g + Vitaflex 2,5 g |
+| 16 | 🔵 Kalsium | CN-G 16 g |
+
+#### FASE 2: Vegetatif Awal (250 ml/polybag)
+| HST | Ember | Bahan per 100 Polybag |
+|---|---|---|
+| 19 | 🟢 NPK Mix | YaraMila 45 g + PH 25 g + MgSO4 25 g |
+| 22 | 🔵 Kalsium | CN-G 20 g |
+| 24 | ⚪ **PRUNING** | TANPA PUPUK |
+| 25 | 🟢 NPK Mix | YaraMila 45 g + PH 25 g + MgSO4 25 g |
+| 28 | 🔵 Kalsium | CN-G 20 g |
+| 31 | 🟢 NPK Mix+Mg+Vit | YaraMila 45 g + PH 25 g + Vitaflex 3,125 g + MgSO4 25 g |
+
+#### FASE 3: Vegetatif Lanjutan (300 ml/polybag)
+
+**KELOMPOK B — STOP HST 40**
+| HST | Ember | Bahan per 100 Polybag |
+|---|---|---|
+| 34 | 🔵 Kalsium | CN-G 24 g |
+| 37 | 🟢 NPK Mix | YaraMila 66 g + PH 30 g + KNO3 45 g + MgSO4 30 g |
+| 40 | 🔵 Kalsium | CN-G 24 g |
+
+> **Selaras varietas:** Ori 212 mulai berbunga 38-50 HST — jadi kocor N terakhir B (HST 37) tepat SEBELUM jendela berbunga awal. Ini yang membuat jadwal B ideal untuk pemicu bunga.
+
+> **Kenapa baris HST 43 dihapus:** sebelumnya HST 43 muncul di dua tabel sekaligus untuk Kelompok B — YaraMila 66 g + PH 30 g (vegetatif) *dan* MKP 120 g (transisi). Itu dua kocor di hari yang sama dan melanggar larangan "dua ember di hari yang sama". Dengan B berhenti di HST 40 dan A di HST 46, jarak antar kelompok tetap 6 hari dan kocor berikutnya selalu 3 hari setelah kocor terakhir.
+
+**KELOMPOK A — STOP HST 46**
+| HST | Ember | Bahan per 100 Polybag |
+|---|---|---|
+| 34 | 🔵 Kalsium | CN-G 24 g |
+| 37 | 🟢 NPK Mix | YaraMila 66 g + PH 30 g + KNO3 45 g + MgSO4 30 g |
+| 40 | 🔵 Kalsium | CN-G 24 g |
+| 43 | 🟢 NPK Mix | YaraMila 66 g + PH 30 g + KNO3 45 g + MgSO4 30 g |
+| 46 | 🔵 Kalsium | CN-G 24 g |
+
+> **Catatan Kelompok A (perbedaan varietas vs desain):** karena Ori 212 sudah mulai berbunga 38-50 HST, kocor N terakhir A (HST 43) bisa jatuh saat bunga pertama mulai muncul. Diharapkan A mengalami flower drop sedikit lebih banyak dari B — itu BAGIAN dari eksperimen A/B (A = transisi ditunda 6 hari). Jangan panik dan jangan beri anti-rontok; catat saja perbandingannya di log.
+
+### SOP Pencampuran Vegetatif
+
+**🟢 Ember 1 (NPK Mix):**
+1. Isi air 20-30 L
+2. Masukkan YaraMila Faster, aduk larut
+3. Masukkan Meroke Vitaflex (hanya HST 13 dan 31), aduk larut
+4. Masukkan MgSO4 (tiap kocor mulai HST 19) dan KNO3 (Fase 3), aduk larut
+5. Larutkan Potassium Humate terpisah dengan 1-2 L air
+6. Tuang PH ke ember utama, aduk rata
+
+**🔵 Ember 2 (Kalsium Murni):**
+1. Ember bersih
+2. Isi air sesuai volume
+3. Masukkan CN-G, aduk larut
+
+### Pruning HST 24
+- **Kelompok A:** Potong pucuk, sisakan 6 daun bawah
+- **Kelompok B:** Buang tunas air di ketiak daun bawah
+- Sterilkan gunting dengan alkohol 70% setiap pindah polybag
+- **Catatan:** 6 daun = standar topping cabai (rentang umum 6-8). Pemulihan ± 2-3 hari; pertumbuhan A & B sejajar kembali sekitar HST 30.
+
+### Ikat & Ajir (berulang)
+- **HST 0:** ikat pertama (pola angka 8, longgar)
+- **HST 21 ± 3:** ikat kedua
+- **HST 38 ± 3:** ikat ketiga (tanaman ± 40-50 cm) — **wajib sebelum transisi**; tanaman berbunga jauh lebih berat
+- Setelah itu cek tiap minggu: ikatan melar/menekuk batang → ikat ulang. Selalu pola angka 8, jangan pernah simpul kencang menekuk batang
+
+---
+
+## V. FASE TRANSISI (HST 43-55 untuk B, HST 49-61 untuk A)
+
+### Aturan
+- Interval: Setiap 3 hari
+- Volume: 300 ml/polybag
+- Fokus: Pemicu pembungaan, cegah rontok, hindari N tinggi
+- **Prinsip: N tinggi menyebabkan flower drop**
+- **Pemicu mulai transisi = kuncup bunga nyata, bukan tanggal:** B mulai saat kuncup B terlihat (acuan HST 43); A mulai 6 hari setelah B (acuan HST 49 — dijaga tetap selisih 6 hari demi eksperimen A/B). **Kuncup belum muncul sampai HST 50 → TUNDA transisi**, cari penyebabnya dulu (Bagian VIII); MKP di atas tanaman yang tidak berbunga bukan pemicu, cuma buang P
+
+### Dosis per Liter Air
+| Produk | Dosis | Fungsi |
+|---|---|---|
+| MKP | 4 g/L | Pemicu pembungaan |
+| KNO3 Putih | 3 g/L | Bobot & kualitas buah |
+| Karate Plus Boroni | **2 g/L** | Cegah rontok + Ca |
+| CN-G | 0,8 g/L | Kalsium (hanya Kelompok A) |
+
+> **Catatan boron (spesifikasi Meroke):** Karate Plus Boroni mengandung **B 0,3%**. Total pemakaian transisi 240 g ≈ 0,72 g B untuk 200 tanaman — masih aman, dan bilas HST 48 menahannya, tapi ambang toksisitas boron pada cabai tergolong rendah (± 1–2 mg/L di air irigasi, USDA). Gejala lebih B: ujung **daun tua** menguning lalu gosong. Bila muncul: stop Karate (KNO3 saja), percepat bilas.
+>
+> **Validasi dosis MKP (jurnal/praktik komersial):** 4 g/L berada di rentang 3-5 g/L yang lazim; sebagai semprot daun pun standarnya 0,3-0,5% (3-5 g/L), dan ICL mencatat MKP punya **salt index terendah** di antara semua pupuk larut air — kocor ke media jauh lebih aman lagi. Batas naik tetap 5 g/L (lihat troubleshooting).
+
+### Jadwal Kocor
+
+#### KELOMPOK B (HST 43-55)
+| HST | Kegiatan | Bahan per 100 Polybag |
+|---|---|---|
+| 43 | 🟡 MKP | MKP 120 g |
+| 46 | 🔴 KNO3 + Karate | KNO3 90 g + Karate 60 g |
+| 49 | 🟡 MKP | MKP 120 g |
+| 52 | 🔴 KNO3 + Karate | KNO3 90 g + Karate 60 g |
+| 55 | 🔴 KNO3 | KNO3 90 g |
+
+#### KELOMPOK A (HST 49-61)
+| HST | Kegiatan | Bahan per 100 Polybag |
+|---|---|---|
+| 49 | 🟡 MKP | MKP 120 g |
+| 52 | 🔴 KNO3 + Karate | KNO3 90 g + Karate 60 g |
+| 55 | 🔵 CN-G | CN-G 24 g |
+| 58 | 🔴 KNO3 + Karate | KNO3 90 g + Karate 60 g |
+| 61 | 🟡 MKP | MKP 120 g |
+
+### SOP Pencampuran Transisi
+
+**🟡 Ember MKP:**
+1. Isi air 30 L
+2. Masukkan MKP 120 g, aduk larut sempurna
+3. Kocor 300 ml/polybag
+4. **JANGAN campur dengan CN-G atau Karate Plus Boroni**
+
+**🔴 Ember KNO3 + Karate:**
+1. Isi air 30 L
+2. Masukkan KNO3 90 g (3 g/L), aduk larut
+3. Masukkan Karate Plus Boroni 60 g (2 g/L), aduk larut
+4. Kocor 300 ml/polybag
+
+**🔵 Ember CN-G (Kelompok A, HST 55 saja):**
+1. Ember bersih
+2. Isi air 30 L
+3. Masukkan CN-G 24 g, aduk larut
+
+### FASE GENERATIF AWAL (HST 61-94) — sampai panen pertama
+
+> **Draft, bukan rencana terkunci.** Deskripsi varietas resmi Ori 212: mulai berbunga 38-50 HST, panen masak penuh **91-96 HST** — lebih lambat dari SOP umum (70-85 HAT). Jadwal di bawah disusun sampai HST 91 + opsi HST 94 untuk target buah merah. **Pemicu memulai jadwal generatif = ≥30-50% bunga sudah menjadi buah muda (buah set)** — jendela acuan HST 55-65, praktis mulai HST 61 karena transisi Kelompok A baru selesai di HST 61; kalau buah set belum terbentuk saat itu, tunda seluruh jadwal, jangan paksa.
+
+Kelompok A & B digabung — semua kocor untuk **200 polybag** (gram sudah dihitung per 200). Volume 300 ml/polybag = 60 L total → siapkan 2 ember 30 L atau isi ulang.
+
+| HST | Ember | Bahan untuk 200 Polybag |
+|---|---|---|
+| 64 | 🔵 CN-G | CN-G 48 g |
+| 67 | 🔴 KNO3 + Karate | KNO3 240 g + Karate 120 g |
+| 70 | 🟡 MKP | MKP 240 g |
+| 73 | 🔵 CN-G | CN-G 48 g |
+| 76 | 🔴 KNO3 + Karate | KNO3 240 g + Karate 120 g |
+| 79 | 🟡 MKP | MKP 240 g |
+| 82 | 🔵 CN-G | CN-G 48 g |
+| 85 | 🔴 KNO3 + Karate | KNO3 240 g + Karate 120 g |
+| 88 | 🟡 MKP | MKP 240 g |
+| 91 | 🔵 CN-G | CN-G 48 g |
+| 94 | 🟡 MKP (opsional — hanya bila target merah penuh & buah masih hijau) | MKP 240 g |
+
+> Baris HST 94 opsional: deskripsi varietas menyebut masak penuh 91-96 HST. Untuk pasar rawit putih tidak diperlukan — panen sudah mulai 80-88 HST.
+
+- Air biasa naik ke **800-1.000 ml/hari** saat buah mengisi (HST 65+), tetap pisah dari kocor.
+- Bilas garam lanjutan: **HST 69 & HST 78** — sehari sebelum MKP 70 & 79 (opsional HST 87 sebelum MKP 88). **Kelompok A tambahan: HST 60** — sehari sebelum MKP 61-nya, karena bilas terakhir A adalah HST 48 (13 hari; melebihi ritme 2 minggu). Prinsipnya sama dengan vegetatif: bilas SELALU sebelum kocor fosfat, tidak pernah sesudahnya (1-2 L/polybag).
+- **Panen pertama sesuai tipe rawit putih — pemicu ciri, bukan tanggal:** petik saat buah **penuh ukuran (3,2-3,6 cm) tapi masih putih/krem, kulit mengkilap** — acuan **HST 80-88**; untuk pasar cabai merah tunggu **≥90% permukaan buah merah** — acuan **91-96 HST** (deskripsi varietas). Putuskan target pasar SEBELUM fase buah mengisi (±HST 75). Petik putih/hijau lebih awal memicu bunga susulan lebih cepat; setelah panen pertama: petik tiap 2-3 hari.
+- Pupuk N (YaraMila) boleh kembali **setelah panen ke-2** untuk pemulihan tanaman — jangan sebelum buah pertama masak.
+- Dampak ke stok (Bagian VII): MKP +720 g → sisa ±800 g; KNO3 +720 g → sisa ±695 g; Karate +360 g → sisa ±400 g; CN-G +192 g → sisa ±552 g. **Semua cukup dengan belanja yang sudah dinaikkan (MKP/KNO3 2 kg, CN-G 1 kg).**
+
+---
+
+## VI. LARANGAN PENCAMPURAN KIMIA
+
+| Kombinasi | Status | Alasan |
+|---|---|---|
+| ❌ MKP + CN-G | **DILARANG** | Fosfat + Kalsium = endapan |
+| ❌ MKP + Karate Plus Boroni | **DILARANG** | Fosfat + Kalsium = endapan |
+| ❌ CN-G + Pupuk mengandung P/S | **DILARANG** | Reaksi pengendapan |
+| ❌ Potassium Humate + CN-G / Karate Plus Boroni | **DILARANG** | Asam humat + Ca = **kalsium humat** (endapan tidak larut). Sudah dicegah struktur plan: PH hanya pernah masuk Ember 1 hijau, tidak pernah Ember 2 biru. KNO3 + PH justru aman (kalium humat memang larut) |
+| ✅ KNO3 + Karate Plus Boroni | **AMAN** | Tidak ada reaksi |
+| ✅ YaraMila + PH + Vitaflex + MgSO4 | **AMAN** | Kompatibel di air |
+| ✅ MKP saja / CN-G saja / KNO3 saja | **AMAN** | Tunggal, tidak bereaksi |
+
+---
+
+## VII. RINGKASAN PEMAKAIAN & SISA STOK PUPUK
+
+| Bahan | Vegetatif | Transisi B | Transisi A | **Total** | Beli | **Sisa** |
+|---|---|---|---|---|---|---|
+| YaraMila Faster | 508 g | 0 g | 0 g | 541 g (dgn semai ±33 g) | 1.000 g | **459 g** ✅ |
+| CN-G | 232 g | 0 g | 24 g | 256 g | 1.000 g | **744 g** ✅ (setelah generatif −192 g → ±552 g ✅) |
+| Potassium Humate | 320 g | 0 g | 0 g | 320 g | 1.000 g | **680 g** ✅ (disiapkan utk pasca-panen) |
+| MgSO4 | 240 g | 0 g | 0 g | 240 g | 500 g | **260 g** ✅ |
+| MKP | 0 g | 240 g | 240 g | 480 g | 2.000 g | **1.520 g** ✅ (setelah generatif −720 g → ±800 g ✅) |
+| KNO3 Putih | 135 g | 270 g | 180 g | 585 g | 2.000 g | **1.415 g** ✅ (setelah generatif −720 g → ±695 g ✅) |
+| Karate Plus Boroni | 0 g | 120 g | 120 g | 240 g | 1.000 g | **760 g** ✅ (setelah generatif −360 g → ±400 g ✅) |
+| Meroke Vitaflex | 11,25 g | 0 g | 0 g | 11,25 g | 100 g | **88,75 g** ✅ |
+
+> **Koreksi pada tabel ini (semua sudah diverifikasi ulang per kocor):**
+> - **YaraMila Faster: 541 g** (termasuk ± 33 g program semai). Kurasi jurnal menaikkan dosis Fase 2 (1,3→1,8 g/L) dan Fase 3 (1,6→2,2 g/L). Hitungan: semai ± 33 g + HST 13 (2 kelompok × 20 g = 40 g) + Fase 2 (6 kocor × 45 g = 270 g) + Fase 3 (HST 37 B+A dan 43 A = 3 kocor × 66 g = 198 g) → **541 g**.
+> - **MgSO4: 240 g** — kini tiap kocor hijau mulai HST 19 (Fase 2: 6 kocor × 25 g; Fase 3: 3 kocor × 30 g), bukan hanya HST 31.
+> - **KNO3: 585 g** s.d. transisi (Fase 3: 3 kocor × 45 g = 135 g — dinaikkan dari 30 g setelah kurasi target K jurnal). Fase generatif memakai 720 g (3 kocor × 240 g) → total 1.305 g; belanja 2 kg sudah mencakup. Sisa ± 695 g untuk lanjutan pasca-panen.
+> - **Potassium Humate: 320 g** (bukan 290 g). Fase 1-2: (20+20+25+25+25) × 2 kelompok = 230 g. Fase 3: B 30 g (HST 37) + A 60 g (HST 37 + 43) = 90 g → **320 g**.
+> - **Meroke Vitaflex: 11,25 g** (bukan 5,625 g) — hitungan lama hanya per 100 polybag, tidak dikali 2 kelompok.
+>
+> Baris lain diverifikasi ulang dan benar: CN-G 232+24 = 256 g, MKP 240+240 = 480 g, Karate 120+120 = 240 g, Vitaflex 2,5×2 + 3,125×2 = 11,25 g.
+
+### Neraca Hara per Tanaman (hitung kurasi, s.d. panen pertama)
+
+Kandungan dipakai (semua terverifikasi): YaraMila 25-7-7 (N 25%, P2O5 7%, K2O 7%) · CN-G & Karate (N 15,5%, Ca 18-19%, Karate B 0,3%) · KNO3 (N 13%, K2O 46%) · MKP 0-52-34 (P2O5 52%, K2O 34%) · SP-36 (P2O5 36%) · Dolomit (CaO ±30%, MgO ±20%) · Humate = asam humat 65-75%, **K2O hanya 8-12%** (label "65-75%" BUKAN kandungan K).
+
+| Unsur | Masuk ke tiap tanaman | Target pro-rata jurnal* | Status |
+|---|---|---|---|
+| N | ± 2,35 g (YaraMila 0,68 + CN-G 0,35 + Karate 0,47 + KNO3 0,85) | ± 3,7 g | ±63% — buffer sehat untuk pot s.d. panen pertama; N kembali setelah panen ke-2 |
+| P2O5 | ± 6,9 g (SP-36 dasar 3,6 + MKP 3,1 + YaraMila 0,2) | ± 1,4 g | ✅ Lebih — P tidak tercuci & dosis dasar sekali di awal itu standar; tidak berbahaya di takaran ini |
+| K2O | ± 5,4 g (KNO3 3,0 + MKP 2,0 + YaraMila 0,2 + humate ±0,2) | ± 6,4 g | ✅ ±85% — sisanya terdekor dari suplai dasar media; aman |
+| Ca | ± 1,0 g larutan (CN-G 0,41 + Karate 0,55) + ± 3 g CaO dari dolomit | — | ✅ Cukup cegah BUSUK PUNGGUNG (BER) |
+| Mg | ± 2 g MgO dolomit (lambat larut) + 0,12 g kocor | — | ✅ Cukup; tetap pantau daun tua |
+| B | ± 9 mg total (Karate 600 g × 0,3%) | — | ✅ Aman asal bilas disiplin (ambang di Bagian III & V) |
+
+\* Target pro-rata: rekomendasi fertigasi cabai musim penuh **230 N - 90 P2O5 - 400 K2O kg/ha** (± 9,2 / 3,6 / 16 g per tanaman pada 25.000 populasi); plan ini mencakup sampai panen pertama ≈ 40% musim → target 3,7 / 1,4 / 6,4 g. Potensi kekurangan K2O setelah panen ditutup oleh sisa stok KNO3 ± 695 g (≈ 3 kocor generatif @ 240 g, atau lebih banyak lagi pada dosis transisi 90 g).
+
+> Angka target di atas adalah **pro-rata musim penuh** dari rekomendasi fertigasi intensif (230-90-400 kg/ha). Di pot dengan bilas terkontrol, efisiensi pupuk jauh lebih tinggi dari lahan, jadi posisi 60-85% pro-rata adalah buffer sehat, bukan defisiensi — dan untuk K sudah tersedia sisa stok KNO3 untuk fase pasca-panen. Lanjutan setelah panen sudah disediakan: YaraMila kembali + KNO3/MKP/CN-G terus (Bagian V).
+
+### Verifikasi Media Tanam (topsoil + sekam mentah)
+- **SP-36 dasar 10 g/polybag = 3,6 g P2O5** — dalam rentang jurnal lahan (5-15 g/tanaman) dan pot (0,2-10 g); karena dijadikan dasar bawah 17 cm, jurang P dengan akar tertutup dolomit/SP-36 tidak masalah — akar menembus ke bawah di HST 10-20. ✅
+- **Dolomit 10 g/polybag (± 0,8 g/L)** — bagian tengah rentang jurnal pot (2,6-40 g); kuncinya tetap cek pH 6,0-6,8 di H-10. ✅
+- **Sekam mentah (bukan bakar):** dekomposisi lambat → mengikat sedikit N awal (immobilisasi) — sudah terkompensasi kenaikan dosis YaraMila; jangan tertukar dengan sekam bakar yang pH-nya tinggi & CEC nol. ✅
+- **CEC media rendah (tanah + sekam)** → humate 1 g/L tiap kocor berfungsi menahan kation (K, Ca, Mg) — alasan tambahan kenapa PH jangan pernah dilewatkan dari Ember 1.
+- **Humate 1 g/L drench — valid vs jurnal:** dalam rentang drench soluble 1-2 g/L; jangan dinaikkan tanpa alasan — pada dosis rendah itulah efek stimulansinya terbaik (mikro dosis tinggi justru mengikat unsur mikro)
+- **Humate bergantung pH:** bekerja optimal di pH media 6,0-7,0; di bawah ±5,5 asam humat mengendap & kehilangan fungsi CEC — satu alasan lagi cek pH H-10 tidak boleh dilewatkan, dan bila pH media turun di tengah musim, efektivitas PH ikut turun (cek ulang pH tiap bulan)
+- **Humate sengaja berhenti di HST 43:** jendela transisi pendek (5 kocor) sengaja disederhanakan tanpa PH untuk meminimalkan risiko campur; sisa stok 680 g tersedia untuk fase pasca-panen bersama YaraMila yang kembali
+
+## VIII. MONITORING & TROUBLESHOOTING
+
+### Indikator Sukses
+- **Vegetatif:** Tanaman tegak, batang kokoh, daun hijau pekat, tinggi 40-50 cm di HST 46 (Ori 212 dewasa 150-165 cm — ajir ≥ 1,8 m wajib)
+- **Transisi:** Muncul bunga pertama **HST 38-50** (deskripsi varietas resmi — lebih awal dari asumsi lama 50-55). Kalau sampai HST 52 belum ada bunga sama sekali: cek N berlebih / cahaya kurang / tanaman terlalu pupuk — jangan menunggu
+
+### Troubleshooting
+| Gejala | Penyebab | Solusi |
+|---|---|---|
+| Daun bawah pucat (HST 10-16) | Immobilisasi N | Normal, lanjut jadwal |
+| Daun pucat + stagnan | Kekurangan N | Naikkan YaraMila +0,2 g/L |
+| Ujung daun gosong | Akumulasi garam | Lewati 1 kocor, bilas 1-2 L air (aturan Bilas, Bagian III) |
+| Daun muda kuning merata | Defisiensi S | Pastikan MgSO4 masuk tiap kocor hijau (mulai HST 19) |
+| Tulang hijau, daging kuning | Defisiensi Fe | Pakai sisa Vitaflex darurat |
+| Batang lembek | N vs Ca tidak seimbang | Pastikan CN-G tidak terlewat |
+| Bunga rontok parah | N terlalu tinggi | Pastikan tidak ada YaraMila di transisi |
+| Bunga sedikit | Defisiensi P (cek dulu: daun tua keunguan di sisi bawah) | Naikkan MKP ke 5 g/L hanya bila gejala P ada — bunga sedikit lebih sering karena cahaya kurang atau tanaman belum cukup umur, bukan P |
+| Batang lemah | K kurang | Tambah dosis KNO3 ke 4 g/L (dari 3 g/L transisi — fase generatif sudah 4 g/L; bila tetap lemah di generatif, cek cahaya & drainase dulu) |
+
+---
+
+## IX. LARANGAN & KEWAJIBAN MUTLAK
+
+### Larangan
+- ❌ Campur MKP dengan CN-G atau Karate Plus Boroni
+- ❌ Memberi Ember 1 & Ember 2 di hari yang sama
+- ❌ Siram pupuk langsung mengenai batang utama
+- ❌ Kocor siang hari (11.00-15.00)
+- ❌ Air PDAM berkaporit tanpa perlakuan — tampung 24 jam (klorin) atau deklorinator tiosulfat (kloramin), lihat Aturan Air no. 7
+- ❌ Gunakan YaraMila Faster di fase transisi (menyebabkan flower drop)
+
+### Kewajiban
+- ✅ Kocor pagi (06.30-09.00) atau sore (15.30-17.00)
+- ✅ Siram melingkar 5-10 cm dari batang
+- ✅ Media lembap sebelum kocor (siram air biasa jika kering)
+- ✅ Cuci bersih ember setelah digunakan
+- ✅ Sterilkan gunting setiap pindah polybag saat pruning
+
+---
+
+**MASTER PLAN TERKUNCI**
+**H-35 (semai) s.d. panen pertama HST 80-96 (putih 80-88 / merah 91-96) | Transisi terkunci: HST 55 (B) / HST 61 (A) | Generatif HST 61-94 = draft**
+**PEMICU KEPUTUSAN = CIRI TANAMAN (tabel di atas). HST = estimasi persiapan + alarm keterlambatan.**
