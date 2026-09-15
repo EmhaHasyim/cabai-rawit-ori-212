@@ -6,11 +6,12 @@
  *   node tools/check-docs.mjs FILE.md ...    periksa file tertentu (dipakai self-test)
  *   node tools/check-docs.mjs --install-hook pasang git pre-commit hook (sync + periksa)
  *
- * Empat hal yang ditolak:
+ * Lima hal yang ditolak:
  *   1. catatan bintang (\*)      → info penting harus di dalam sel tabel
  *   2. istilah rancu             → "ulangi dari nomor 1", "nomor 1 →", "(bila ada)"
  *   3. daftar pakai bintang "* " → dokumen ini memakai "-"
- *   4. tabel fase tanpa ember    → tiap tabel SIKLUS wajib "Kocor ke- | Ember | Isi ember"
+ *   4. tabel fase tanpa ember    → tiap subjudul berisi "SIKLUS" wajib bertabel
+ *                                  "Kocor ke- | Ember | Isi ember"
  *   5. tautan rusak              → anchor internal & tautan file lokal
  */
 import { readFileSync, existsSync } from 'node:fs';
@@ -75,14 +76,14 @@ function findTextViolations(file, lines) {
   return out;
 }
 
-/** Tiap bagian "## 7.x SIKLUS ..." wajib punya tabel ember yang jelas. */
+/** Tiap subjudul yang memuat kata "SIKLUS" wajib punya tabel ember yang jelas. */
 function findPhaseTableViolations(file, lines) {
   const out = [];
   let current = null;
   lines.forEach((line, idx) => {
-    const heading = line.match(/^### (7\.\d+) (.+)$/);
+    const heading = line.match(/^### (.+)$/);
     if (heading) {
-      current = { id: heading[1], name: heading[2].trim(), header: null, dataRows: [] };
+      current = { name: heading[1].trim(), header: null, dataRows: [] };
       return;
     }
     if (line.startsWith('#')) {
@@ -112,9 +113,8 @@ function findPhaseTableViolations(file, lines) {
         found.push({
           file: f,
           line: 0,
-          rule: 'tabel-fase',
-          text: `Bagian ${sec.id} ${sec.name} tidak punya tabel ember`,
-          hint: 'Tiap siklus wajib bertabel "Kocor ke- | Ember | Isi ember — untuk 200 polybag".',
+          rule: 'tabel-fase',            text: `Subjudul "${sec.name}" tidak punya tabel ember`,
+            hint: 'Tiap siklus wajib bertabel "Kocor ke- | Ember | Isi ember — untuk 200 polybag".',
         });
       }
       return found;
@@ -128,7 +128,7 @@ function findPhaseTableViolations(file, lines) {
         line: sec.header.idx + 1,
         rule: 'tabel-fase',
         text: sec.header.line.trim(),
-        hint: `Judul tabel ${sec.id} harus memuat "Kocor ke- | Ember | Isi ember" (kurang: ${missing.join(', ')}).`,
+        hint: `Tabel di "${sec.name}" harus memuat "Kocor ke- | Ember | Isi ember" (kurang: ${missing.join(', ')}).`,
       });
     }
 
@@ -139,7 +139,7 @@ function findPhaseTableViolations(file, lines) {
           line: row.idx + 1,
           rule: 'tabel-fase',
           text: row.line.trim(),
-          hint: `Baris tabel ${sec.id} tidak menyebut embernya. Pakai ikon ember (🟢🔵🟡🔴).`,
+          hint: `Ada baris tabel di "${sec.name}" yang tidak menyebut embernya. Pakai ikon ember (🟢🔵🟡🔴).`,
         });
       }
     }
