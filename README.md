@@ -17,15 +17,34 @@
 | [`plan.txt`](plan.txt) | Salinan teks polos untuk dicetak / dibagikan offline | ❌ **Tidak** — dibuat otomatis |
 | [`plan_v1_lama.txt`](plan_v1_lama.txt) | Arsip versi lama (masih perlakuan A/B) | ❌ Dibekukan |
 
-Setiap kali mengubah README.md, samakan plan.txt dengan satu perintah:
+Setiap kali mengubah README.md, samakan plan.txt lalu periksa gaya tulisannya:
 
 ```bash
-node tools/sync-plan.mjs                 # tulis ulang plan.txt
-node tools/sync-plan.mjs --check         # cek saja (exit 1 bila beda)
-node tools/sync-plan.mjs --install-hook  # pasang sekali: otomatis saat commit
+node tools/sync-plan.mjs                  # tulis ulang plan.txt dari README.md
+node tools/sync-plan.mjs --check          # cek sinkron saja (exit 1 bila beda)
+node tools/check-docs.mjs                 # periksa gaya tulisan & tautan
+node tools/self-test-docs.mjs             # buktikan pemeriksa benar-benar bekerja
+node tools/check-docs.mjs --install-hook  # pasang sekali: otomatis saat commit
 ```
 
-Setelah hook terpasang, plan.txt **tidak bisa lagi tertinggal** — hook memperbarui dan meng-*stage*-nya sebelum setiap commit.
+**Yang dijaga pemeriksa gaya (`tools/check-docs.mjs`):**
+
+| Aturan | Yang ditolak | Kenapa |
+|---|---|---|
+| `catatan-bintang` | catatan kaki bergaya bintang di bawah tabel | Info penting harus duduk **di dalam sel tabel**, bukan di catatan terpisah |
+| `istilah-rancu` | contoh redaksi yang ditolak: `ulangi dari nomor 1` · `nomor 1 →` · `(bila ada)` | Kata "nomor" mudah tertukar antara **ember** dan **fase** |
+| `bullet-bintang` | daftar memakai bintang, bukan `-` | Agar penanda daftar tidak tertukar dengan penanda catatan |
+| `tabel-fase` | tabel SIKLUS yang barisnya tidak menyebut ember | Saat mencampur di kebun, embernya harus jelas |
+| `tautan-rusak` | anchor Daftar Isi & tautan file yang mati | Tautan di GitHub harus benar-benar bisa diklik |
+
+**Dua lapis penjagaan:**
+
+| Lapis | Kapan jalan | Apa yang dijalankan |
+|---|---|---|
+| **git hook** (`--install-hook`) | sebelum setiap commit | samakan plan.txt → periksa gaya → **batalkan commit bila gagal** |
+| **GitHub Actions** ([`.github/workflows/docs.yml`](.github/workflows/docs.yml)) | setiap push & pull request | uji mandiri → cek sinkron → periksa gaya |
+
+> Hook **tidak ikut ter-clone** karena tersimpan di folder `.git/`. Setelah clone di komputer lain, jalankan sekali `node tools/check-docs.mjs --install-hook`.
 
 ---
 

@@ -10,9 +10,10 @@
  *   node tools/sync-plan.mjs --check         hanya cek; exit 1 kalau tidak sinkron (untuk CI)
  *   node tools/sync-plan.mjs --install-hook  pasang git pre-commit hook (sekali per clone)
  */
-import { readFileSync, writeFileSync, chmodSync, existsSync, statSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, statSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { installPreCommitHook } from './hooks.mjs';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = resolve(ROOT, 'README.md');
@@ -51,24 +52,8 @@ function buildPlanText() {
 }
 
 function installHook() {
-  const hookPath = resolve(ROOT, '.git/hooks/pre-commit');
-  if (!existsSync(dirname(hookPath))) {
-    throw new Error('Folder .git/hooks tidak ada. Jalankan `git init` dulu.');
-  }
-  const script = `#!/bin/sh
-# Dipasang oleh: node tools/sync-plan.mjs --install-hook
-# Tujuan: plan.txt selalu sinkron dengan README.md (sumber tunggal) sebelum commit.
-command -v node >/dev/null 2>&1 || exit 0
-node tools/sync-plan.mjs || exit 1
-git add plan.txt
-`;
-  writeFileSync(hookPath, script);
-  try {
-    chmodSync(hookPath, 0o755);
-  } catch {
-    /* Windows: abaikan */
-  }
-  console.log('✅ pre-commit hook terpasang: .git/hooks/pre-commit');
+  console.log(`✅ pre-commit hook terpasang: ${installPreCommitHook(ROOT)}`);
+  console.log('   Hook menjalankan: sync plan.txt → git add → periksa gaya dokumen.');
 }
 
 function main() {

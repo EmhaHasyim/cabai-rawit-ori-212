@@ -1,0 +1,27 @@
+name: Dokumen
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  periksa-dokumen:
+    name: Sinkronisasi & gaya dokumen
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Uji mandiri pemeriksa dokumen
+        run: node tools/self-test-docs.mjs
+
+      - name: plan.txt sinkron dengan README.md
+        run: node tools/sync-plan.mjs --check
+
+      - name: Gaya tulisan & tautan
+        run: node tools/check-docs.mjs
