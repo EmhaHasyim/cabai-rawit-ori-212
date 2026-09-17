@@ -1,8 +1,12 @@
-# Panduan Budidaya Cabai Rawit Ori 212
+# Mengoptimalkan Cabai Rawit Ori 212 di Dataran Rendah Tanpa Pupuk Kompos
 
-**200 polybag · satu perlakuan seragam · persiapan sampai panen pertama**
+**Panduan praktis dengan target 1 kg cabai per tanaman**
 
-> **Status: rencana budidaya, belum tervalidasi di lapangan.** Resep kocor dipertahankan dari rencana sebelumnya, bukan rekomendasi dosis baru. Keamanan EC dan kecukupan hara pada media tanah–sekam mentah belum terbukti. Media lembap saja tidak menjamin larutan pekat aman. Pastikan label bahan serta kondisi media dan air sebelum menerapkan resep.
+Panduan ini membahas budidaya Ori 212 dalam polybag, menggunakan tanah lapisan atas (topsoil) dan sekam mentah tanpa tambahan kompos atau pupuk kandang. Contoh kebutuhan bahan dan tabel pupuk dihitung untuk **200 tanaman**. Urutan kerjanya: siapkan bahan → semai → pindah tanam → rawat sesuai fase → panen dan evaluasi.
+
+**Target 1 kg adalah total berat buah layak panen dari satu tanaman selama satu musim produksi, bukan sekali petik.** Timbang setiap panen dan jumlahkan hasilnya. Untuk 200 tanaman, target rata-rata tersebut setara 200 kg; tanaman mati atau gagal berproduksi tetap masuk hitungan, bukan dikeluarkan agar rata-rata terlihat tinggi.
+
+> **Batas panduan:** target hasil belum terbukti di lapangan. Resep yang tersedia baru mencakup perawatan sampai panen pertama, belum program lengkap untuk mencapai 1 kg per tanaman. Dosis tidak diubah dalam penyuntingan ini; kesesuaiannya untuk kondisi dataran rendah, keamanan kadar garam (EC), dan kecukupan hara masih perlu diperiksa. Cocokkan dengan label produk, kondisi media dan air sebelum digunakan; media lembap tidak otomatis membuat larutan pekat aman.
 
 **Daftar isi**
 
@@ -14,7 +18,7 @@
 6. [Pemeriksaan masalah](#6-pemeriksaan-masalah)
 7. [Lampiran](#7-lampiran)
 
-**Cara membaca:** baca Bagian 1–3 sebelum mulai, lalu jalankan kartu fase yang sesuai. Petunjuk khusus dan alarm setiap fase berada di kartunya; tidak perlu mencari tabel dosis lain.
+**Cara membaca:** mulai dari Bagian 1–3 untuk persiapan dan perawatan dasar. Saat tanaman tumbuh, buka fase yang sesuai di Bagian 4: kapan mulai, apa yang dikerjakan, dan kapan beralih. Bagian 5–6 membantu saat panen atau muncul masalah. Anggaran, perhitungan hara dan sumber ilmiah ada di lampiran.
 
 **Istilah:** HST = hari setelah pindah tanam; H- = hari sebelum pindah tanam. Fase = tahap pertumbuhan. Siklus = satu putaran kocoran di dalam fase. Kocor = pemberian larutan pupuk ke media. Humate = potassium humate, bukan pH. EC = ukuran daya hantar listrik larutan yang digunakan untuk memantau garam terlarut.
 
@@ -28,7 +32,14 @@
 - Ajir **200 batang**, panjang 1,8–2 m. Siapkan tali lunak, gunting, timbangan, gelas ukur, ember bersih dan alat ukur pH/EC.
 - Catat lokasi, naungan, hujan dan jam cahaya langsung. Data ini diperlukan untuk menyesuaikan air dan menilai pertumbuhan.
 
-Deskripsi varietas dalam rencana lama menyebut tinggi 150–165 cm, mulai berbunga 38–50 HST dan mulai panen 91–96 HST tanpa pangkas pucuk. **Angka ini belum diverifikasi terhadap label lot/dokumen varietas yang digunakan**, dan bukan jadwal pasti untuk tanaman yang dipangkas.
+Periksa identitas varietas dan perkiraan umur panen pada kemasan benih. Jadwal dalam panduan adalah acuan kerja; tanaman yang dipangkas dapat berkembang berbeda.
+
+### Fokus perawatan di dataran rendah
+
+- **Saat terik:** periksa kelembapan hingga bagian dalam media. Jangan mengandalkan jatah air berdasarkan umur atau langsung menyimpulkan layu sebagai kekurangan pupuk.
+- **Saat hujan:** pastikan lubang polybag tidak tersumbat dan air tidak menggenang di tempat polybag berdiri. Tunda kocor jika media tergenang.
+- **Saat tajuk membesar:** evaluasi jarak awal. Beri ruang untuk sirkulasi udara, pemeriksaan daun dan pemetikan; jangan mempertahankan susunan rapat jika tanaman saling berhimpitan.
+- **Saat bunga rontok:** catat cuaca, periksa air, akar serta hama sebelum mengubah pupuk. Jangan menaikkan dosis hanya untuk mengejar target 1 kg.
 
 ### Media semai dan media utama
 
@@ -44,7 +55,7 @@ Keduanya berbeda; jangan menukar sekam mentah dengan sekam bakar tanpa mengevalu
 | Inokulan lubang tanam | MycoGrow **1 kg** total |
 | Mulsa | Sekam tambahan untuk lapisan 1–2 cm; di luar 850 L campuran |
 
-Media semai tidak memakai SP-36 atau dolomit dalam rencana ini. Istilah lama “sekam bakar/humas” tidak digunakan: **humus bukan sinonim sekam bakar**. Jika bahan semai aktual adalah humus, pastikan komposisinya sebelum melanjutkan.
+Media semai tidak diberi SP-36 atau dolomit dalam panduan ini. Gunakan sekam bakar untuk semai dan sekam mentah untuk media utama. **Tanpa kompos bukan berarti tanpa bahan organik:** sekam tetap bahan organik, tetapi bukan pengganti lengkap pasokan hara.
 
 Media utama sekitar **70% topsoil dan 30% sekam mentah** berdasarkan volume bahan lepas. Total 2.850 L memperkirakan penyusutan 7%; hasil akhirnya sekitar 13,25 L/polybag. Ini estimasi persediaan, bukan volume wajib universal. Periksa isian setelah penyiraman dan drainase.
 
@@ -57,7 +68,9 @@ Media utama sekitar **70% topsoil dan 30% sekam mentah** berdasarkan volume baha
 
 ## 2. Persiapan sampai pindah tanam
 
-### H-35 sampai H-14: persemaian
+Persemaian dan persiapan polybag berjalan bersamaan. **HST 0 adalah hari pindah tanam**; H-10 berarti sepuluh hari sebelumnya.
+
+### H-35 sampai H-14: semai benih
 
 | Waktu | Pekerjaan |
 |---|---|
@@ -70,9 +83,9 @@ Jaga media lembap, bukan tergenang. Saat dua daun sejati, pindahkan ke wadah leb
 
 ### H-12 sampai H-1: adaptasi bibit
 
-Buka naungan bertahap dan sesuaikan penyiraman dengan pengeringan media; jangan sengaja membuat bibit layu berat. Periksa bibit setiap hari hingga pindah tanam. Jadwal lama berhenti memberi pupuk setelah H-14; evaluasi kondisi bibit, bukan menganggap penghentian pupuk wajib untuk semua keadaan.
+Buka naungan bertahap, periksa bibit setiap hari dan siram sesuai kelembapan media. Jangan sengaja membuat bibit layu berat. Jadwal pupuk semai berakhir pada H-14; kebutuhan berikutnya ditentukan dari kondisi bibit dan label pupuk.
 
-Pilih bibit berakar sehat, batang tegak dan sekitar 4–5 daun sejati. Tinggi 20–25 cm adalah acuan lama, bukan satu-satunya kriteria. Pisahkan bibit sakit; bibit kecil yang sehat tidak otomatis harus dibuang.
+Pilih bibit berakar sehat, batang tegak dan sekitar 4–5 daun sejati. Jangan memilih berdasarkan tinggi saja. Pisahkan bibit sakit; bibit kecil yang sehat masih dapat dipelihara.
 
 ### H-10: siapkan media polybag
 
@@ -84,16 +97,16 @@ Pilih bibit berakar sehat, batang tegak dan sekitar 4–5 daun sejati. Tinggi 20
 6. Isi bagian bawah hingga sekitar 17 cm, lalu bagian atas hingga total 25 cm. Ratakan dengan kepadatan konsisten, **jangan dipadatkan keras**.
 7. Siram hingga media terbasahi dan dapat mengalirkan kelebihan air. Periksa lubang drainase, tinggi isian dan pH setelah campuran sempat bereaksi.
 
-Penempatan SP-36 di bagian bawah adalah rancangan lama, belum diuji khusus pada media ini. Jangan menambah P atau kapur untuk mengejar angka perkiraan tanpa memeriksa bahan yang sudah masuk.
+Dosis dan penempatan SP-36 ini belum diuji khusus pada media tersebut. Jangan menambah fosfor atau kapur tanpa memeriksa kebutuhan media dan bahan yang sudah diberikan.
 
-### H-9 sampai H-1: inkubasi dan mulsa
+### H-9 sampai H-1: rawat media dan pasang mulsa
 
 - **H-9 sampai H-4:** simpan polybag dengan drainase terbuka, tambahkan air hanya sesuai kondisi media.
-- **H-3:** rencana aplikasi sisa GlioTrico-G **100 g dalam 50 L air**, sebanyak **250 ml/polybag**, hanya jika sesuai label. Penambahan gula dalam resep lama belum terverifikasi dan tidak dijadikan langkah wajib.
+- **H-3:** rencana aplikasi sisa GlioTrico-G **100 g dalam 50 L air**, sebanyak **250 ml/polybag**, hanya jika sesuai label. Tidak perlu menambahkan gula di luar petunjuk produk.
 - Setelah aplikasi, pasang mulsa sekam **1–2 cm**; jangan menumpuknya menempel pada batang/lokasi batang.
 - **H-2 sampai H-1:** periksa kelembapan dan drainase; tidak perlu menyiram bila masih cukup lembap.
 
-Jangan menganggap semua fungisida cocok atau semuanya pasti mematikan inokulan. Ikuti kompatibilitas bahan aktif dan petunjuk produk hayati; jarak waktu universal H-10 sampai HST 7 belum terbukti.
+Jika memakai fungisida, periksa kecocokannya dengan produk hayati. Ikuti petunjuk masing-masing produk; jangan memakai satu aturan jeda untuk semua bahan aktif.
 
 ### HST 0: pindah tanam
 
@@ -135,7 +148,7 @@ Rentang tersebut adalah **perkiraan perencanaan**, bukan kebutuhan air yang suda
 
 ### Pemantauan garam dan drainase
 
-Rencana lama menjadwalkan bilas tiap 14 hari mulai HST 21 dengan 1–2 L/polybag. **Gunakan jadwal itu sebagai pengingat pemeriksaan, bukan jaminan bahwa garam harus atau sudah tercuci.**
+Mulai HST 21, jadwalkan pemeriksaan garam dan drainase setiap 14 hari, atau lebih cepat jika muncul masalah. **Bilas hanya saat diperlukan, bukan otomatis dengan volume tetap.**
 
 Catat EC air masuk, volume air, volume drainase serta EC media/drainase dengan metode yang konsisten. Larutan ember, ekstrak tanah dan drainase tidak boleh dibandingkan seolah-olah metode ukurnya sama.
 
@@ -152,7 +165,7 @@ Bila pencucian diperlukan, sesuaikan dengan kondisi media dan hasil ukur; keluar
 5. Ukur EC/pH larutan dan catat. Larutan jernih atau media lembap tidak membuktikan larutan aman bagi akar.
 6. Kocor merata ke media, bukan tepat ke batang. Pilih waktu tidak terik, misalnya 06.30–09.00 atau 15.30–17.00, lalu cuci ember.
 
-**Pemisahan bahan:** jangan mencampurkan pupuk Ca (CN-G/Karate) dengan MKP, MgSO4 atau humate dalam ember pekat ini. Ca–fosfat dan Ca–sulfat dapat mengendap; humate juga dapat tidak kompatibel dengan Ca. Gips adalah CaSO4·2H2O, **bukan hasil reaksi Mg + Ca**. Risiko dipengaruhi konsentrasi, pH dan air; kecocokan seluruh produk tetap perlu diverifikasi.
+**Pemisahan bahan:** jangan mencampurkan pupuk Ca (CN-G/Karate) dengan MKP, MgSO4 atau humate dalam ember pekat ini. Ca–fosfat dan Ca–sulfat dapat mengendap; humate juga dapat tidak kompatibel dengan Ca. Risiko endapan dipengaruhi konsentrasi, pH dan air; periksa juga petunjuk pencampuran setiap produk.
 
 ### Ajir dan pencatatan
 
@@ -166,7 +179,7 @@ Catat tanggal, fase, bahan/gram, volume air dan larutan, EC/pH, drainase, cuaca 
 
 Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama masih di fase itu. Setelah tanda fase berikutnya terkonfirmasi, gunakan kartu berikutnya; jangan kembali ke V1. Tanda tanaman dan kondisi akar lebih penting daripada perkiraan HST. Satu tanaman yang lebih cepat belum tentu mewakili seluruh kelompok.
 
-### V1: adaptasi
+### V1: pulihkan tanaman setelah pindah tanam
 
 **Mulai ketika:** daun lama tegak kembali dan muncul daun/tunas baru. Acuan sekitar HST 10.
 
@@ -182,7 +195,7 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pindah ke V2 ketika:** ujung tanaman bertambah tinggi dan ruas baru muncul berturut-turut.
 
-### V2: vegetatif awal dan pangkas pucuk
+### V2: besarkan tanaman dan pangkas pucuk
 
 **Mulai ketika:** pertumbuhan ruas dan tinggi berlangsung aktif. Acuan sekitar HST 19.
 
@@ -204,7 +217,7 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pindah ke V3 ketika:** cabang baru hasil pangkas pucuk terlihat dan tumbuh aktif; acuan rencana sekitar 3–6 cabang.
 
-### V3: pertumbuhan cabang
+### V3: bentuk dan rawat cabang
 
 **Mulai ketika:** cabang hasil pangkas pucuk tumbuh aktif. Acuan sekitar HST 38–42.
 
@@ -225,7 +238,7 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pindah ke Transisi ketika:** kuncup bunga pertama terkonfirmasi pada kelompok tanaman. Tidak perlu memaksakan sisa siklus V3 setelah perpindahan fase diputuskan.
 
-### Transisi: awal pembungaan
+### Transisi: rawat bunga pertama
 
 **Mulai ketika:** kuncup bunga terlihat. Acuan sekitar HST 52, bukan batas wajib.
 
@@ -242,7 +255,7 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pindah ke G-1 ketika:** bunga mulai menjadi buah muda—mahkota rontok dan bakal buah membesar. Acuan rencana 30–50% bunga yang diamati; gunakan kelompok bunga/tanaman contoh yang konsisten.
 
-### G-1: buah muda mulai membesar
+### G-1: rawat buah muda
 
 **Mulai ketika:** pembentukan buah muda sudah jelas. Acuan sekitar HST 68.
 
@@ -260,7 +273,7 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pindah ke G-2 ketika:** buah terus memanjang dan mengisi. Bunga serta buah yang lebih muda dapat tetap muncul bersamaan.
 
-### G-2: pengisian buah
+### G-2: jaga pengisian buah
 
 **Mulai ketika:** buah memanjang, mengisi dan kulitnya mengkilap; umur masuk berbeda antartanaman.
 
@@ -273,20 +286,31 @@ Selesaikan baris kocor secara berurutan, lalu **ulangi siklus yang sama** selama
 
 **Pekerjaan khusus:** amati pengisian buah dan pertumbuhan baru. Jangan menganggap kebutuhan hara vegetatif hilang karena sudah ada buah besar.
 
-**Peringatan khusus:** campuran nitrat dan Ca di fase ini diperkirakan paling pekat dalam rencana lama, tetapi EC aktual belum diukur. Jangan menyebutnya aman hanya karena media lembap atau karena tidak terlihat endapan.
+**Periksa sebelum kocor:** campuran nitrat dan Ca fase ini berisiko memiliki kadar garam tinggi; EC aktual belum diukur. Jangan menganggapnya aman hanya karena media lembap atau larutan tidak mengendap.
 
-**Pantau:** fluktuasi air, ujung daun terbakar dan kerusakan ujung buah. Jangan otomatis menambahkan dosis penyelamatan CN-G dari rencana lama; diagnosis dan status garam harus diperiksa dahulu.
+**Pantau:** perubahan kelembapan, ujung daun terbakar dan kerusakan ujung buah. Periksa penyebab serta kadar garam sebelum menambah CN-G atau pupuk lain.
 
 **Menuju panen ketika:** buah mencapai ukuran dan warna yang sesuai tujuan pasar, bukan semata HST.
 
 ## 5. Panen dan perawatan berikutnya
 
-- **Panen putih:** pilih buah yang sudah penuh ukuran, putih-krem dan padat. Ukuran 3,2–3,6 cm dalam rencana lama perlu dikonfirmasi terhadap varietas/label aktual.
+- **Panen putih:** pilih buah yang sudah penuh ukuran, putih-krem dan padat; cocokkan cirinya dengan varietas pada kemasan benih.
 - **Panen merah:** tunggu warna merah mendominasi permukaan buah, sesuai kebutuhan pembeli.
-- Catat tanggal panen pertama, jumlah dan berat buah layak/tidak layak. Perkiraan lama HST 88–98 untuk putih dan 100–110 untuk merah belum tervalidasi setelah pangkas pucuk.
+- Catat tanggal panen pertama, jumlah dan berat buah layak/tidak layak. Tentukan waktu petik dari kondisi buah, bukan tanggal perkiraan.
 - Setelah panen pertama, periksa kesiapan petik tiap 2–3 hari. Jangan memetik buah yang belum sesuai kriteria hanya demi interval.
 - Evaluasi beban buah, bunga baru, daun, media dan catatan input sebelum meneruskan siklus. **Resep setelah panen pertama belum ditetapkan sebagai rekomendasi terverifikasi.** Jangan otomatis menyisipkan G-1 atau menambah YaraMila berdasarkan jumlah panen saja.
 - Jika menggunakan pestisida, patuhi label, perlindungan operator dan interval prapanen.
+
+### Ukur kemajuan menuju 1 kg
+
+1. Beri nomor tanaman. Setiap petik, catat tanggal, nomor tanaman, berat buah layak panen dan berat buah afkir secara terpisah.
+2. Jumlahkan berat buah layak panen tiap tanaman. Target individu tercapai ketika totalnya **1.000 g**, bukan ketika satu tanaman terbaik mencapai angka itu untuk mewakili semuanya.
+3. Hitung rata-rata kebun: **total kg buah layak panen ÷ jumlah tanaman awal**. Jika menanam 200 tanaman, pembaginya tetap 200 meskipun ada tanaman mati.
+4. Catat tanggal awal dan akhir masa produksi serta jumlah tanaman yang mencapai target. Angka hasil tanpa lama panen tidak cukup untuk mengevaluasi budidaya.
+
+Contoh: total 160 kg dari 200 tanaman awal berarti rata-rata **0,8 kg per tanaman**, walaupun beberapa tanaman menghasilkan lebih dari 1 kg.
+
+**Bagian yang masih perlu dilengkapi:** program pemupukan dan perawatan sepanjang panen berulang. Susun berdasarkan label, kondisi tanaman, media/air dan catatan hasil; jangan memperpanjang resep pra-panen tanpa evaluasi. Panduan ini belum membuktikan bahwa wadah, media dan resep di atas mampu mencapai target.
 
 ## 6. Pemeriksaan masalah
 
@@ -352,20 +376,10 @@ Perkiraan EC lama tidak ditampilkan sebagai ambang aman. Volume air dalam pot, E
 </details>
 
 <details>
-<summary>Kurasi ilmiah dan sumber keputusan</summary>
-
-[**KURASI-ILMIAH.md**](KURASI-ILMIAH.md) menyimpan daftar sumber, metode penelitian, batas penerapan, kesalahan versi lama dan cek hitungan yang dapat dijalankan. Gunakan dokumen itu untuk keputusan perubahan dosis, bukan menyalin rekomendasi lahan atau hidroponik ke pot ini.
-
-Bukti pemangkasan pada varietas lain tidak membuktikan keuntungan pada Ori 212. Penelitian kocor MKP dengan tanah dan pupuk kandang juga tidak otomatis berlaku pada topsoil–sekam mentah. Label produk, jurnal penelitian, prosiding dan petunjuk teknis dibedakan dalam kurasi. Sumber yang belum berhasil diperiksa tidak dianggap sudah terverifikasi.
-
-</details>
-
-<details>
 <summary>Cara memperbarui dokumen</summary>
 
 - `README.md`: sumber tunggal panduan operasional.
 - `plan.txt`: salinan otomatis; jangan diedit langsung.
-- `KURASI-ILMIAH.md`: rekam bukti dan batas keputusan; catat tindak lanjut ketika panduan berubah.
 
 ```sh
 node tools/sync-plan.mjs
@@ -380,4 +394,4 @@ Pemeriksa menguji gaya, struktur tertentu, anchor dan keberadaan file lokal; **b
 
 ---
 
-Panduan V12 · urutan kerja tunggal · resep dasar dipertahankan · keputusan dosis memerlukan verifikasi lapangan.
+Panduan praktis · dataran rendah · tanpa kompos · target hasil diukur, bukan dijanjikan.
