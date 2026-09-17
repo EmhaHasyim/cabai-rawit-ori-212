@@ -5,7 +5,7 @@
 
 **Panduan praktis dengan target 1 kg cabai per tanaman**
 
-Panduan ini membahas budidaya Ori 212 dalam polybag, menggunakan tanah lapisan atas (topsoil) dan sekam mentah tanpa tambahan kompos atau pupuk kandang. Contoh kebutuhan bahan dan tabel pupuk dihitung untuk **200 tanaman**. Urutan kerjanya: siapkan bahan → semai → pindah tanam → rawat sesuai fase → panen dan evaluasi.
+Panduan ini membahas budidaya Ori 212 dalam polybag, menggunakan tanah lapisan atas (topsoil) dan sekam mentah tanpa tambahan kompos atau pupuk kandang. Contoh kebutuhan bahan dan tabel pupuk dihitung untuk **200 tanaman**. Urutan kerjanya: siapkan bahan → siapkan media tanam → pindah tanam → rawat sesuai fase → panen dan evaluasi.
 
 **Target 1 kg adalah total berat buah layak panen dari satu tanaman selama satu musim produksi, bukan sekali petik.** Timbang setiap panen dan jumlahkan hasilnya. Untuk 200 tanaman, target rata-rata tersebut setara 200 kg; tanaman mati atau gagal berproduksi tetap masuk hitungan, bukan dikeluarkan agar rata-rata terlihat tinggi.
 
@@ -29,7 +29,7 @@ Panduan ini membahas budidaya Ori 212 dalam polybag, menggunakan tanah lapisan a
 
 ### Tanaman dan tempat
 
-- Target **200 tanaman Ori 212**, satu tanaman per polybag; semai **260 benih** sebagai cadangan.
+- Target **200 tanaman Ori 212**, satu tanaman per polybag; mulai dari bibit siap tanam.
 - Polybag nominal **40 × 40 cm**. Asumsi bentuk terisi: diameter dalam 26 cm, tinggi media 25 cm, volume sekitar **13,3 L**. Ukur wadah aktual; ukuran nominal tidak menjamin kapasitas.
 - Rencana jarak: 45 cm dalam deret, 55–60 cm antar deret; contoh 10 tanaman × 20 deret. Perkiraan lahan **50–70 m²**, perlu disesuaikan untuk jalan dan kanopi.
 - Ajir **200 batang**, panjang 1,8–2 m. Siapkan tali lunak, gunting, timbangan, gelas ukur, ember bersih dan alat ukur pH/EC.
@@ -44,67 +44,56 @@ Periksa identitas varietas dan perkiraan umur panen pada kemasan benih. Jadwal d
 - **Saat tajuk membesar:** evaluasi jarak awal. Beri ruang untuk sirkulasi udara, pemeriksaan daun dan pemetikan; jangan mempertahankan susunan rapat jika tanaman saling berhimpitan.
 - **Saat bunga rontok:** catat cuaca, periksa air, akar serta hama sebelum mengubah pupuk. Jangan menaikkan dosis hanya untuk mengejar target 1 kg.
 
-### Media semai dan media utama
-
-Keduanya berbeda; jangan menukar sekam mentah dengan sekam bakar tanpa mengevaluasi ulang campuran.
+### Media tanam
 
 | Kebutuhan | Rencana bahan |
 |---|---|
-| Media semai | Topsoil halus + sekam bakar 1:1 berdasarkan volume; sekitar 80 L |
-| Media utama | Topsoil **2.000 L** + sekam **mentah 850 L** |
+| Media tanam | Topsoil **2.000 L** + sekam mentah **850 L** |
 | Pupuk dasar | SP-36 **2 kg**, hanya ke bagian bawah media |
 | Kapur | Dolomit: cadangan awal **2 kg**, dosis aktual mengikuti kebutuhan kapur |
 | Inokulan media | GlioTrico-G **300 g** total |
 | Inokulan lubang tanam | MycoGrow **1 kg** total |
 | Mulsa | Sekam tambahan untuk lapisan 1–2 cm; di luar 850 L campuran |
 
-Media semai tidak diberi SP-36 atau dolomit dalam panduan ini. Gunakan sekam bakar untuk semai dan sekam mentah untuk media utama. **Tanpa kompos bukan berarti tanpa bahan organik:** sekam tetap bahan organik, tetapi bukan pengganti lengkap pasokan hara.
+**Rasio acuan: 70% topsoil dan 30% sekam mentah** berdasarkan volume bahan lepas; rentang yang masih layak adalah sekam mentah **25–35%** dari campuran. Total 2.850 L memperkirakan penyusutan 7%; hasil akhirnya sekitar 13,25 L/polybag untuk 200 polybag.
 
-Media utama sekitar **70% topsoil dan 30% sekam mentah** berdasarkan volume bahan lepas. Total 2.850 L memperkirakan penyusutan 7%; hasil akhirnya sekitar 13,25 L/polybag. Ini estimasi persediaan, bukan volume wajib universal. Periksa isian setelah penyiraman dan drainase.
+| Komponen | Peran di polybag 13,3 L |
+|---|---|
+| Topsoil | Menahan air dan hara serta menyediakan kapasitas tukar kation; terlalu banyak membuat media padat dan air lambat mengalir |
+| Sekam mentah | Membuka pori besar agar akar mendapat udara, mempercepat drainase dan mencegah media mengendap padat sepanjang musim; hampir tidak membawa hara |
+| Dolomit | Menaikkan pH menuju target dan menyimpan cadangan Ca–Mg yang larut perlahan |
+| SP-36 | Cadangan fosfor di bagian bawah media, dekat zona akar |
+
+**Menyetel rasio untuk polybag ini:** di dataran rendah yang terik media kering cepat, sehingga menaikkan sekam mentah melebihi 35% justru mempercepat kehilangan air; untuk musim kering atau topsoil berpasir dekati 25–30%, untuk topsoil liat atau musim hujan dekati 30–35%. Uji dengan tangan: campuran yang pas dapat digenggam menjadi gumpalan lalu runtuh saat disentuh, dan air yang disiram mengalir keluar lubang bawah dalam sekitar satu menit tanpa menggenang.
+
+**Mutu bahan:** ayak topsoil dari gumpalan besar dan akar, lalu periksa pH serta EC sebelum dipakai. Sekam mentah harus bersih dan kering, bebas gabah utuh dan jamur. **Tanpa kompos bukan berarti tanpa bahan organik:** sekam mentah tetap bahan organik, tetapi bukan pengganti lengkap pasokan hara.
 
 ### Pemeriksaan sebelum memakai bahan
 
-1. Periksa asal dan tekstur topsoil, pH serta EC awal. Bila memungkinkan, uji P tersedia, K/Ca/Mg dan kebutuhan kapur. Target pH campuran dalam rencana adalah **6,0–6,8**, dengan metode pengukuran yang dicatat.
+1. Periksa asal dan tekstur topsoil, pH serta EC awal. Bila memungkinkan, uji P tersedia, K/Ca/Mg dan kebutuhan kapur. Target pH campuran dalam rencana adalah **6,0–6,8**, paling baik sekitar **6,5**; pada rentang itu cabai menyerap N, P dan K paling merata, sedangkan Fe, Mn dan Zn belum mengendap. Ukur dengan metode yang konsisten, misalnya campuran tanah dan air 1 : 2,5, memakai alat yang sama setiap kali.
 2. Periksa sumber air: pH dan EC; alkalinitas serta B/Na/Cl bila air berisiko. TDS dalam ppm bergantung faktor konversi alat dan tidak sama dengan analisis boron.
 3. Verifikasi label semua pupuk, termasuk kadar unsur versus kadar oksidanya. Periksa kelarutan dan petunjuk penggunaan produk.
 4. Periksa label, mutu, kedaluwarsa dan penyimpanan GlioTrico-G/MycoGrow. Dosis hayati di bawah masih rencana, bukan bukti bahwa kolonisasi berhasil.
 
 ## 2. Persiapan sampai pindah tanam
 
-Persemaian dan persiapan polybag berjalan bersamaan. **HST 0 adalah hari pindah tanam**; H-10 berarti sepuluh hari sebelumnya.
-
-### H-35 sampai H-14: semai benih
-
-| Waktu | Pekerjaan |
-|---|---|
-| H-35 | Semai 260 benih sedalam 0,5–1 cm, dengan naungan sekitar 50% |
-| H-28 | Rencana kocor bibit: YaraMila 0,5 g/L, 30–50 ml/bibit |
-| H-21 | Rencana kocor bibit: YaraMila 1 g/L, 50 ml/bibit |
-| H-14 | Rencana kocor bibit terakhir: YaraMila 1 g/L, 50 ml/bibit |
-
-Jaga media lembap, bukan tergenang. Saat dua daun sejati, pindahkan ke wadah lebih besar jika ruang akar tidak cukup. Dosis semai perlu sesuai label produk dan kondisi bibit; jangan memupuk media yang tergenang atau bibit yang bermasalah tanpa pemeriksaan.
-
-### H-12 sampai H-1: adaptasi bibit
-
-Buka naungan bertahap, periksa bibit setiap hari dan siram sesuai kelembapan media. Jangan sengaja membuat bibit layu berat. Jadwal pupuk semai berakhir pada H-14; kebutuhan berikutnya ditentukan dari kondisi bibit dan label pupuk.
-
-Pilih bibit berakar sehat, batang tegak dan sekitar 4–5 daun sejati. Jangan memilih berdasarkan tinggi saja. Pisahkan bibit sakit; bibit kecil yang sehat masih dapat dipelihara.
+**HST 0 adalah hari pindah tanam**; H-10 berarti sepuluh hari sebelumnya. Siapkan bibit siap tanam: perakaran sehat, batang tegak, 4–5 daun sejati. Mulai campur media lebih awal agar dolomit sempat bereaksi dan pH sempat diperiksa ulang sebelum hari H.
 
 ### H-10: siapkan media polybag
 
-1. Campurkan topsoil dan sekam mentah secara merata.
+1. Campurkan topsoil dan sekam mentah mengikuti rasio yang disetel, acuan **70 : 30**, sampai warna dan teksturnya merata.
 2. Tentukan kebutuhan dolomit dari uji tanah atau uji pendahuluan campuran. **pH awal saja tidak cukup untuk menentukan dosis kapur.** Jangan langsung menghabiskan cadangan 2 kg.
-3. Campurkan dolomit yang sudah ditentukan. Reaksinya membutuhkan waktu; jangan menambah lagi hanya karena pH belum segera berubah.
+3. Campurkan dolomit yang sudah ditentukan. Fungsinya dua: menaikkan pH media menuju rentang target 6,0–6,8 dan menyediakan cadangan Ca serta Mg yang larut perlahan. Reaksinya membutuhkan waktu; jangan menambah lagi hanya karena pH belum segera berubah.
 4. Masukkan GlioTrico-G **200 g** ke seluruh campuran jika sesuai petunjuk produknya.
 5. Bagi campuran: bawah sekitar **68% (1.940 L)** dan atas **32% (910 L)**. Campurkan SP-36 hanya ke bagian bawah.
 6. Isi bagian bawah hingga sekitar 17 cm, lalu bagian atas hingga total 25 cm. Ratakan dengan kepadatan konsisten, **jangan dipadatkan keras**.
-7. Siram hingga media terbasahi dan dapat mengalirkan kelebihan air. Periksa lubang drainase, tinggi isian dan pH setelah campuran sempat bereaksi.
+7. Siram hingga media terbasahi dan dapat mengalirkan kelebihan air. Periksa lubang drainase dan tinggi isian, lalu ukur ulang pH sekitar 5–7 hari setelah pencampuran, sebelum pindah tanam; koreksi berikutnya hanya berdasar hasil ukur.
 
 Dosis dan penempatan SP-36 ini belum diuji khusus pada media tersebut. Jangan menambah fosfor atau kapur tanpa memeriksa kebutuhan media dan bahan yang sudah diberikan.
 
 ### H-9 sampai H-1: rawat media dan pasang mulsa
 
-- **H-9 sampai H-4:** simpan polybag dengan drainase terbuka, tambahkan air hanya sesuai kondisi media.
+- **H-9 sampai H-4:** simpan polybag berisi media dengan drainase terbuka, tambahkan air hanya sesuai kondisi media.
 - **H-3:** rencana aplikasi sisa GlioTrico-G **100 g dalam 50 L air**, sebanyak **250 ml/polybag**, hanya jika sesuai label. Tidak perlu menambahkan gula di luar petunjuk produk.
 - Setelah aplikasi, pasang mulsa sekam **1–2 cm**; jangan menumpuknya menempel pada batang/lokasi batang.
 - **H-2 sampai H-1:** periksa kelembapan dan drainase; tidak perlu menyiram bila masih cukup lembap.
@@ -115,9 +104,9 @@ Jika memakai fungisida, periksa kecocokannya dengan produk hayati. Ikuti petunju
 
 Kerjakan saat tidak terik, misalnya sore 15.30–17.30.
 
-1. Buat lubang sesuai ukuran akar/bibit; acuan lama sekitar 5–6 cm.
+1. Buat lubang sedalam gumpalan akar, sekitar 5–6 cm.
 2. Tempatkan **MycoGrow 5 g/lubang** bila sesuai label, dekat perakaran.
-3. Tanam tanpa merusak gumpalan akar.
+3. Tanam tanpa merusak gumpalan akar; letakkan pangkal batang pada kedalaman yang sama seperti pada wadah bibit, jangan ditanam lebih dalam agar pangkal batang tidak rentan busuk.
 4. Pasang ajir sekitar 5–7 cm dari batang. Ikat longgar dengan pola angka delapan.
 5. Berikan air di sekitar akar; acuan awal **250 ml/tanaman**, disesuaikan dengan kelembapan media.
 
@@ -342,7 +331,7 @@ Skenario perhitungan: V1 ×1, V2 ×2, V3 ×3, Transisi ×3, G-1 ×1, G-2 ×2. In
 
 | Produk | Pembelian dan harga acuan | Pemakaian skenario |
 |---|---|---|
-| YaraMila Faster 25-7-7 | 1 kg · Rp26.000 | 616 g + sekitar 30–33 g untuk semai |
+| YaraMila Faster 25-7-7 | 1 kg · Rp26.000 | 616 g |
 | CN-G | 1 kg · Rp24.000 | 384 g |
 | Potassium humate | 1 kg · Rp42.500 | 360 g |
 | MgSO4 | 500 g · Rp10.000 | 400 g; sisa hanya 100 g |
@@ -353,7 +342,7 @@ Skenario perhitungan: V1 ×1, V2 ×2, V3 ×3, Transisi ×3, G-1 ×1, G-2 ×2. In
 
 Subtotal pupuk kocor **Rp311.000** untuk kemasan di atas. Bila membeli MgSO4 1 kg sebagai cadangan, perbarui subtotal sesuai harga aktual. Pengulangan fase tidak otomatis membutuhkan pembelian semua pupuk lagi; hitung sisa berdasarkan kartu resep.
 
-Biaya lama bahan dasar/hayati/ajir sekitar **Rp114.000–134.000**; gabung pupuk kocor menjadi **Rp425.000–445.000**. Belum termasuk polybag sekitar Rp180.000–240.000, topsoil dan sekam sekitar Rp300.000–900.000, benih, media/wadah semai, mulsa tambahan, air, alat ukur, tenaga dan pengendalian OPT. Beli media berdasarkan volume aktual; harga sangat tergantung sumber dan pengiriman.
+Biaya lama bahan dasar/hayati/ajir sekitar **Rp114.000–134.000**; gabung pupuk kocor menjadi **Rp425.000–445.000**. Belum termasuk polybag sekitar Rp180.000–240.000, topsoil dan sekam sekitar Rp300.000–900.000, bibit, mulsa tambahan, air, alat ukur, tenaga dan pengendalian OPT. Beli media berdasarkan volume aktual; harga sangat tergantung sumber dan pengiriman.
 
 </details>
 
@@ -364,7 +353,7 @@ Ini jumlah **input nominal**, bukan serapan tanaman atau bukti kecukupan. Menggu
 
 | Unsur | Input per tanaman | Batas perhitungan |
 |---|---|---|
-| N | 2,6201 g | Pascapindah tanam; tidak termasuk semai |
+| N | 2,6201 g | Pascapindah tanam |
 | P2O5 | 7,2476 g | Termasuk SP-36; bukan seluruhnya langsung tersedia |
 | K2O | Sekitar 6,05–6,19 g | Bergantung kadar KNO3 dan humate |
 | Ca dari pupuk kocor | Sekitar 1,01–1,05 g | Belum termasuk tanah, air atau dolomit |
